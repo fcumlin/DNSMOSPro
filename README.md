@@ -16,7 +16,7 @@ import utils  # Python file containing the STFT.
 
 model = torch.jit.load('runs/NISQA/model_best.pt')
 samples = np.ones(160_000)
-spec = torch.FloatTensor(utils.stft(samples))  # Defaults therein correspond to training values.
+spec = utils.stft(samples)  # Defaults therein correspond to training values.
 prediction = model(spec[None, None, ...])
 mean = prediction[:, 0]
 variance = prediction[:, 1]
