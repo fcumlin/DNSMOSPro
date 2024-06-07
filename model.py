@@ -1,6 +1,6 @@
 import copy
 import math
-from typing import Any, Union, Type
+from typing import Any, Optional, Union, Type
 
 import gin
 import torch
@@ -63,7 +63,7 @@ class Encoder(nn.Module):
             _get_conv_layer(32, 64, bn=bn, max_pool_size=None, activation_fn=activation_fn),
             _get_conv_layer(64, 64, bn=bn, max_pool_size=None, dropout=None, activation_fn=activation_fn),
         )
-        self._flatten = nn:Flatten()
+        self._flatten = nn.Flatten()
 
     def forward(self, spec: torch.Tensor) -> torch.Tensor:
         # input speech_spectrum shape (batch, 1, max_seq_len, n_features)
