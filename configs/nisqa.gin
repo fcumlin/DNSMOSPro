@@ -1,0 +1,43 @@
+# Training config on VCC2018 dataset.
+
+# ------------------------------
+# STFT
+# ------------------------------
+stft:
+    win_length = 320
+    hop_length = 160
+    n_fft = 320
+    use_log = True
+    use_magnitude = True
+    n_mels = None
+
+# ------------------------------
+# Architecture
+# ------------------------------
+Encoder:
+    bn = True
+    max_pool_size = 3
+    activation_fn = @torch.nn.modules.activation.ReLU
+
+Head:
+    use_ln = False
+    activation_fn = @torch.nn.modules.activation.ReLU
+    
+# ------------------------------
+# Dataset
+# ------------------------------
+get_dataloader:
+    num_workers = 12
+    shuffle = True
+
+# ------------------------------
+# Training loop
+# ------------------------------
+TrainingLoop:
+    num_epochs = 500
+    model = @DnsmosPro
+    loss_type = 'gnll'
+    learning_rate = 1e-4
+    dataset_cls = @Nisqa
+    weight_decay = 0.0
+    batch_size_train = 64
