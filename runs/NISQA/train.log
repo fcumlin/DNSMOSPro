@@ -1,0 +1,1509 @@
+INFO:root:Num train speech clips: 10000
+INFO:root:Num val speech clips: 1250
+INFO:root:Num test speech clips: 1250
+INFO:root:Device=cuda
+INFO:root:Average loss=0.6044725179672241
+INFO:root:
+[Valid][0][UTT][ MSE = 1.1895 | LCC = 0.2234 | SRCC = 0.1651 ]
+INFO:root:Average loss=0.5477898716926575
+INFO:root:
+[Valid][1][UTT][ MSE = 1.1692 | LCC = 0.2739 | SRCC = 0.2223 ]
+INFO:root:Average loss=0.5300614833831787
+INFO:root:
+[Valid][2][UTT][ MSE = 1.1679 | LCC = 0.2713 | SRCC = 0.2233 ]
+INFO:root:Average loss=0.50593101978302
+INFO:root:
+[Valid][3][UTT][ MSE = 1.2060 | LCC = 0.2987 | SRCC = 0.2483 ]
+INFO:root:Average loss=0.4662673771381378
+INFO:root:
+[Valid][4][UTT][ MSE = 1.2523 | LCC = 0.3664 | SRCC = 0.3387 ]
+INFO:root:Average loss=0.4079938232898712
+INFO:root:
+[Valid][5][UTT][ MSE = 1.2633 | LCC = 0.3739 | SRCC = 0.3431 ]
+INFO:root:Average loss=0.3802163302898407
+INFO:root:
+[Valid][6][UTT][ MSE = 1.3515 | LCC = 0.3976 | SRCC = 0.3864 ]
+INFO:root:Average loss=0.3589611053466797
+INFO:root:
+[Valid][7][UTT][ MSE = 1.3224 | LCC = 0.4245 | SRCC = 0.4223 ]
+INFO:root:Average loss=0.34109780192375183
+INFO:root:
+[Valid][8][UTT][ MSE = 1.4161 | LCC = 0.4534 | SRCC = 0.4543 ]
+INFO:root:Average loss=0.3253466784954071
+INFO:root:
+[Valid][9][UTT][ MSE = 1.4300 | LCC = 0.4854 | SRCC = 0.5037 ]
+INFO:root:Average loss=0.3113681674003601
+INFO:root:
+[Valid][10][UTT][ MSE = 1.4640 | LCC = 0.4965 | SRCC = 0.5161 ]
+INFO:root:Average loss=0.3156070113182068
+INFO:root:
+[Valid][11][UTT][ MSE = 1.4147 | LCC = 0.5097 | SRCC = 0.5237 ]
+INFO:root:Average loss=0.2966163158416748
+INFO:root:
+[Valid][12][UTT][ MSE = 1.4444 | LCC = 0.5312 | SRCC = 0.5399 ]
+INFO:root:Average loss=0.29711800813674927
+INFO:root:
+[Valid][13][UTT][ MSE = 1.7038 | LCC = 0.5363 | SRCC = 0.5547 ]
+INFO:root:Average loss=0.2940623164176941
+INFO:root:
+[Valid][14][UTT][ MSE = 1.6266 | LCC = 0.5416 | SRCC = 0.5451 ]
+INFO:root:Average loss=0.277718186378479
+INFO:root:
+[Valid][15][UTT][ MSE = 1.5880 | LCC = 0.5498 | SRCC = 0.5572 ]
+INFO:root:Average loss=0.2720031142234802
+INFO:root:
+[Valid][16][UTT][ MSE = 1.5748 | LCC = 0.5610 | SRCC = 0.5833 ]
+INFO:root:Average loss=0.2606743574142456
+INFO:root:
+[Valid][17][UTT][ MSE = 1.5541 | LCC = 0.5773 | SRCC = 0.5927 ]
+INFO:root:Average loss=0.2596639096736908
+INFO:root:
+[Valid][18][UTT][ MSE = 1.6402 | LCC = 0.5843 | SRCC = 0.6028 ]
+INFO:root:Average loss=0.24950894713401794
+INFO:root:
+[Valid][19][UTT][ MSE = 1.6901 | LCC = 0.5853 | SRCC = 0.5941 ]
+INFO:root:Average loss=0.24306997656822205
+INFO:root:
+[Valid][20][UTT][ MSE = 1.6660 | LCC = 0.5887 | SRCC = 0.6017 ]
+INFO:root:Average loss=0.23629826307296753
+INFO:root:
+[Valid][21][UTT][ MSE = 1.5181 | LCC = 0.5996 | SRCC = 0.6107 ]
+INFO:root:Average loss=0.22387583553791046
+INFO:root:
+[Valid][22][UTT][ MSE = 1.6171 | LCC = 0.6051 | SRCC = 0.6245 ]
+INFO:root:Average loss=0.22541797161102295
+INFO:root:
+[Valid][23][UTT][ MSE = 1.4805 | LCC = 0.6131 | SRCC = 0.6195 ]
+INFO:root:Average loss=0.20833109319210052
+INFO:root:
+[Valid][24][UTT][ MSE = 1.5939 | LCC = 0.6077 | SRCC = 0.6217 ]
+INFO:root:Average loss=0.20734447240829468
+INFO:root:
+[Valid][25][UTT][ MSE = 1.3117 | LCC = 0.6269 | SRCC = 0.6341 ]
+INFO:root:Average loss=0.21364015340805054
+INFO:root:
+[Valid][26][UTT][ MSE = 1.6268 | LCC = 0.6174 | SRCC = 0.6344 ]
+INFO:root:Average loss=0.20013326406478882
+INFO:root:
+[Valid][27][UTT][ MSE = 1.4943 | LCC = 0.6242 | SRCC = 0.6351 ]
+INFO:root:Average loss=0.1903100162744522
+INFO:root:
+[Valid][28][UTT][ MSE = 1.5748 | LCC = 0.6246 | SRCC = 0.6318 ]
+INFO:root:Average loss=0.19241559505462646
+INFO:root:
+[Valid][29][UTT][ MSE = 1.3425 | LCC = 0.6326 | SRCC = 0.6435 ]
+INFO:root:Average loss=0.18884800374507904
+INFO:root:
+[Valid][30][UTT][ MSE = 1.3929 | LCC = 0.6304 | SRCC = 0.6388 ]
+INFO:root:Average loss=0.18709909915924072
+INFO:root:
+[Valid][31][UTT][ MSE = 1.2892 | LCC = 0.6271 | SRCC = 0.6356 ]
+INFO:root:Average loss=0.1762448251247406
+INFO:root:
+[Valid][32][UTT][ MSE = 1.4586 | LCC = 0.6302 | SRCC = 0.6407 ]
+INFO:root:Average loss=0.16870366036891937
+INFO:root:
+[Valid][33][UTT][ MSE = 1.2815 | LCC = 0.6397 | SRCC = 0.6532 ]
+INFO:root:Average loss=0.17032678425312042
+INFO:root:
+[Valid][34][UTT][ MSE = 1.3008 | LCC = 0.6403 | SRCC = 0.6545 ]
+INFO:root:Average loss=0.16453322768211365
+INFO:root:
+[Valid][35][UTT][ MSE = 1.2008 | LCC = 0.6492 | SRCC = 0.6595 ]
+INFO:root:Average loss=0.16295495629310608
+INFO:root:
+[Valid][36][UTT][ MSE = 1.2580 | LCC = 0.6372 | SRCC = 0.6454 ]
+INFO:root:Average loss=0.1528317630290985
+INFO:root:
+[Valid][37][UTT][ MSE = 1.0560 | LCC = 0.6426 | SRCC = 0.6433 ]
+INFO:root:Average loss=0.14983564615249634
+INFO:root:
+[Valid][38][UTT][ MSE = 1.0217 | LCC = 0.6560 | SRCC = 0.6611 ]
+INFO:root:Average loss=0.14458811283111572
+INFO:root:
+[Valid][39][UTT][ MSE = 1.1027 | LCC = 0.6621 | SRCC = 0.6683 ]
+INFO:root:Average loss=0.1465897262096405
+INFO:root:
+[Valid][40][UTT][ MSE = 1.1554 | LCC = 0.6588 | SRCC = 0.6634 ]
+INFO:root:Average loss=0.14337007701396942
+INFO:root:
+[Valid][41][UTT][ MSE = 1.1305 | LCC = 0.6510 | SRCC = 0.6565 ]
+INFO:root:Average loss=0.12063834071159363
+INFO:root:
+[Valid][42][UTT][ MSE = 1.0507 | LCC = 0.6691 | SRCC = 0.6805 ]
+INFO:root:Average loss=0.13271406292915344
+INFO:root:
+[Valid][43][UTT][ MSE = 0.8954 | LCC = 0.6673 | SRCC = 0.6728 ]
+INFO:root:Average loss=0.13486233353614807
+INFO:root:
+[Valid][44][UTT][ MSE = 0.9254 | LCC = 0.6784 | SRCC = 0.6899 ]
+INFO:root:Average loss=0.12624086439609528
+INFO:root:
+[Valid][45][UTT][ MSE = 0.9228 | LCC = 0.6644 | SRCC = 0.6678 ]
+INFO:root:Average loss=0.12268153578042984
+INFO:root:
+[Valid][46][UTT][ MSE = 0.9401 | LCC = 0.6792 | SRCC = 0.6850 ]
+INFO:root:Average loss=0.11771225184202194
+INFO:root:
+[Valid][47][UTT][ MSE = 1.1241 | LCC = 0.6773 | SRCC = 0.6945 ]
+INFO:root:Average loss=0.11953908205032349
+INFO:root:
+[Valid][48][UTT][ MSE = 0.9489 | LCC = 0.6560 | SRCC = 0.6620 ]
+INFO:root:Average loss=0.1083083301782608
+INFO:root:
+[Valid][49][UTT][ MSE = 1.0417 | LCC = 0.6833 | SRCC = 0.6992 ]
+INFO:root:Average loss=0.11290723085403442
+INFO:root:
+[Valid][50][UTT][ MSE = 0.8685 | LCC = 0.6732 | SRCC = 0.6818 ]
+INFO:root:Average loss=0.11593008041381836
+INFO:root:
+[Valid][51][UTT][ MSE = 1.0186 | LCC = 0.6760 | SRCC = 0.6883 ]
+INFO:root:Average loss=0.10589104890823364
+INFO:root:
+[Valid][52][UTT][ MSE = 0.9567 | LCC = 0.6870 | SRCC = 0.7030 ]
+INFO:root:Average loss=0.10245246440172195
+INFO:root:
+[Valid][53][UTT][ MSE = 0.9027 | LCC = 0.6922 | SRCC = 0.7046 ]
+INFO:root:Average loss=0.10736912488937378
+INFO:root:
+[Valid][54][UTT][ MSE = 1.0707 | LCC = 0.6930 | SRCC = 0.7088 ]
+INFO:root:Average loss=0.09802896529436111
+INFO:root:
+[Valid][55][UTT][ MSE = 0.9848 | LCC = 0.6752 | SRCC = 0.6881 ]
+INFO:root:Average loss=0.0880047082901001
+INFO:root:
+[Valid][56][UTT][ MSE = 0.9400 | LCC = 0.6916 | SRCC = 0.7081 ]
+INFO:root:Average loss=0.09217938780784607
+INFO:root:
+[Valid][57][UTT][ MSE = 0.9928 | LCC = 0.6930 | SRCC = 0.7139 ]
+INFO:root:Average loss=0.08767842501401901
+INFO:root:
+[Valid][58][UTT][ MSE = 0.9150 | LCC = 0.6839 | SRCC = 0.6957 ]
+INFO:root:Average loss=0.07761736214160919
+INFO:root:
+[Valid][59][UTT][ MSE = 0.8298 | LCC = 0.7096 | SRCC = 0.7221 ]
+INFO:root:Average loss=0.0854513868689537
+INFO:root:
+[Valid][60][UTT][ MSE = 0.8047 | LCC = 0.7007 | SRCC = 0.7100 ]
+INFO:root:Average loss=0.07288960367441177
+INFO:root:
+[Valid][61][UTT][ MSE = 0.8497 | LCC = 0.7046 | SRCC = 0.7185 ]
+INFO:root:Average loss=0.08011537045240402
+INFO:root:
+[Valid][62][UTT][ MSE = 0.8554 | LCC = 0.7060 | SRCC = 0.7179 ]
+INFO:root:Average loss=0.07184912264347076
+INFO:root:
+[Valid][63][UTT][ MSE = 0.9487 | LCC = 0.7026 | SRCC = 0.7240 ]
+INFO:root:Average loss=0.06597504019737244
+INFO:root:
+[Valid][64][UTT][ MSE = 0.9316 | LCC = 0.6953 | SRCC = 0.7175 ]
+INFO:root:Average loss=0.06312474608421326
+INFO:root:
+[Valid][65][UTT][ MSE = 1.0034 | LCC = 0.7042 | SRCC = 0.7263 ]
+INFO:root:Average loss=0.0577089786529541
+INFO:root:
+[Valid][66][UTT][ MSE = 0.8929 | LCC = 0.7049 | SRCC = 0.7236 ]
+INFO:root:Average loss=0.05474025011062622
+INFO:root:
+[Valid][67][UTT][ MSE = 0.8075 | LCC = 0.7143 | SRCC = 0.7314 ]
+INFO:root:Average loss=0.049692485481500626
+INFO:root:
+[Valid][68][UTT][ MSE = 0.9831 | LCC = 0.7173 | SRCC = 0.7406 ]
+INFO:root:Average loss=0.053492624312639236
+INFO:root:
+[Valid][69][UTT][ MSE = 0.8696 | LCC = 0.7199 | SRCC = 0.7444 ]
+INFO:root:Average loss=0.04741096869111061
+INFO:root:
+[Valid][70][UTT][ MSE = 0.8501 | LCC = 0.7257 | SRCC = 0.7450 ]
+INFO:root:Average loss=0.043480731546878815
+INFO:root:
+[Valid][71][UTT][ MSE = 0.7710 | LCC = 0.7260 | SRCC = 0.7419 ]
+INFO:root:Average loss=0.05534759536385536
+INFO:root:
+[Valid][72][UTT][ MSE = 0.8004 | LCC = 0.7276 | SRCC = 0.7432 ]
+INFO:root:Average loss=0.04521680250763893
+INFO:root:
+[Valid][73][UTT][ MSE = 0.8973 | LCC = 0.7252 | SRCC = 0.7428 ]
+INFO:root:Average loss=0.034255217760801315
+INFO:root:
+[Valid][74][UTT][ MSE = 0.8133 | LCC = 0.7155 | SRCC = 0.7392 ]
+INFO:root:Average loss=0.04223380610346794
+INFO:root:
+[Valid][75][UTT][ MSE = 0.8999 | LCC = 0.7288 | SRCC = 0.7489 ]
+INFO:root:Average loss=0.030642470344901085
+INFO:root:
+[Valid][76][UTT][ MSE = 0.9418 | LCC = 0.7193 | SRCC = 0.7387 ]
+INFO:root:Average loss=0.02879033051431179
+INFO:root:
+[Valid][77][UTT][ MSE = 0.9347 | LCC = 0.7251 | SRCC = 0.7471 ]
+INFO:root:Average loss=0.023935312405228615
+INFO:root:
+[Valid][78][UTT][ MSE = 0.8801 | LCC = 0.7218 | SRCC = 0.7417 ]
+INFO:root:Average loss=0.025559652596712112
+INFO:root:
+[Valid][79][UTT][ MSE = 0.8697 | LCC = 0.7339 | SRCC = 0.7557 ]
+INFO:root:Average loss=0.02281150221824646
+INFO:root:
+[Valid][80][UTT][ MSE = 0.8393 | LCC = 0.7341 | SRCC = 0.7556 ]
+INFO:root:Average loss=0.02072424441576004
+INFO:root:
+[Valid][81][UTT][ MSE = 0.7980 | LCC = 0.7339 | SRCC = 0.7536 ]
+INFO:root:Average loss=0.0201126616448164
+INFO:root:
+[Valid][82][UTT][ MSE = 0.8568 | LCC = 0.7381 | SRCC = 0.7602 ]
+INFO:root:Average loss=0.00872438307851553
+INFO:root:
+[Valid][83][UTT][ MSE = 0.7985 | LCC = 0.7376 | SRCC = 0.7559 ]
+INFO:root:Average loss=0.0015907312044873834
+INFO:root:
+[Valid][84][UTT][ MSE = 0.7948 | LCC = 0.7427 | SRCC = 0.7617 ]
+INFO:root:Average loss=0.005797232035547495
+INFO:root:
+[Valid][85][UTT][ MSE = 0.9091 | LCC = 0.7385 | SRCC = 0.7623 ]
+INFO:root:Average loss=-0.0001936277694767341
+INFO:root:
+[Valid][86][UTT][ MSE = 0.9789 | LCC = 0.7431 | SRCC = 0.7692 ]
+INFO:root:Average loss=-0.005906541366130114
+INFO:root:
+[Valid][87][UTT][ MSE = 0.8777 | LCC = 0.7380 | SRCC = 0.7629 ]
+INFO:root:Average loss=-0.012185590341687202
+INFO:root:
+[Valid][88][UTT][ MSE = 0.7216 | LCC = 0.7525 | SRCC = 0.7684 ]
+INFO:root:Average loss=0.010962613858282566
+INFO:root:
+[Valid][89][UTT][ MSE = 0.8393 | LCC = 0.7431 | SRCC = 0.7664 ]
+INFO:root:Average loss=-0.0068741170689463615
+INFO:root:
+[Valid][90][UTT][ MSE = 0.7508 | LCC = 0.7561 | SRCC = 0.7735 ]
+INFO:root:Average loss=-0.014143968001008034
+INFO:root:
+[Valid][91][UTT][ MSE = 0.8311 | LCC = 0.7456 | SRCC = 0.7688 ]
+INFO:root:Average loss=-0.005547676235437393
+INFO:root:
+[Valid][92][UTT][ MSE = 0.7720 | LCC = 0.7587 | SRCC = 0.7760 ]
+INFO:root:Average loss=-0.02693784050643444
+INFO:root:
+[Valid][93][UTT][ MSE = 0.7779 | LCC = 0.7533 | SRCC = 0.7723 ]
+INFO:root:Average loss=-0.014766857028007507
+INFO:root:
+[Valid][94][UTT][ MSE = 0.7839 | LCC = 0.7597 | SRCC = 0.7770 ]
+INFO:root:Average loss=-0.02147841639816761
+INFO:root:
+[Valid][95][UTT][ MSE = 0.7997 | LCC = 0.7569 | SRCC = 0.7783 ]
+INFO:root:Average loss=-0.02652597427368164
+INFO:root:
+[Valid][96][UTT][ MSE = 0.7503 | LCC = 0.7662 | SRCC = 0.7830 ]
+INFO:root:Average loss=-0.024050412699580193
+INFO:root:
+[Valid][97][UTT][ MSE = 0.7284 | LCC = 0.7628 | SRCC = 0.7805 ]
+INFO:root:Average loss=-0.02881600707769394
+INFO:root:
+[Valid][98][UTT][ MSE = 0.6781 | LCC = 0.7665 | SRCC = 0.7808 ]
+INFO:root:Average loss=-0.027867933735251427
+INFO:root:
+[Valid][99][UTT][ MSE = 0.7253 | LCC = 0.7621 | SRCC = 0.7771 ]
+INFO:root:Average loss=-0.026981893926858902
+INFO:root:
+[Valid][100][UTT][ MSE = 0.7668 | LCC = 0.7641 | SRCC = 0.7844 ]
+INFO:root:Average loss=-0.026358358561992645
+INFO:root:
+[Valid][101][UTT][ MSE = 0.7110 | LCC = 0.7694 | SRCC = 0.7869 ]
+INFO:root:Average loss=-0.03809283673763275
+INFO:root:
+[Valid][102][UTT][ MSE = 0.9688 | LCC = 0.7550 | SRCC = 0.7801 ]
+INFO:root:Average loss=-0.03429748862981796
+INFO:root:
+[Valid][103][UTT][ MSE = 0.8009 | LCC = 0.7692 | SRCC = 0.7867 ]
+INFO:root:Average loss=-0.03899098560214043
+INFO:root:
+[Valid][104][UTT][ MSE = 0.7108 | LCC = 0.7754 | SRCC = 0.7904 ]
+INFO:root:Average loss=-0.03859851136803627
+INFO:root:
+[Valid][105][UTT][ MSE = 0.7045 | LCC = 0.7746 | SRCC = 0.7888 ]
+INFO:root:Average loss=-0.04122983664274216
+INFO:root:
+[Valid][106][UTT][ MSE = 0.7474 | LCC = 0.7687 | SRCC = 0.7864 ]
+INFO:root:Average loss=-0.04386301711201668
+INFO:root:
+[Valid][107][UTT][ MSE = 0.7975 | LCC = 0.7673 | SRCC = 0.7880 ]
+INFO:root:Average loss=-0.04306529089808464
+INFO:root:
+[Valid][108][UTT][ MSE = 0.7932 | LCC = 0.7725 | SRCC = 0.7915 ]
+INFO:root:Average loss=-0.05287771672010422
+INFO:root:
+[Valid][109][UTT][ MSE = 0.7300 | LCC = 0.7794 | SRCC = 0.7944 ]
+INFO:root:Average loss=-0.0554749071598053
+INFO:root:
+[Valid][110][UTT][ MSE = 0.6986 | LCC = 0.7814 | SRCC = 0.7950 ]
+INFO:root:Average loss=-0.054457079619169235
+INFO:root:
+[Valid][111][UTT][ MSE = 0.8112 | LCC = 0.7711 | SRCC = 0.7926 ]
+INFO:root:Average loss=-0.057946186512708664
+INFO:root:
+[Valid][112][UTT][ MSE = 0.7916 | LCC = 0.7734 | SRCC = 0.7911 ]
+INFO:root:Average loss=-0.04681253060698509
+INFO:root:
+[Valid][113][UTT][ MSE = 0.7560 | LCC = 0.7754 | SRCC = 0.7932 ]
+INFO:root:Average loss=-0.060509420931339264
+INFO:root:
+[Valid][114][UTT][ MSE = 0.7475 | LCC = 0.7789 | SRCC = 0.7953 ]
+INFO:root:Average loss=-0.05895742028951645
+INFO:root:
+[Valid][115][UTT][ MSE = 0.7484 | LCC = 0.7798 | SRCC = 0.7937 ]
+INFO:root:Average loss=-0.05566459149122238
+INFO:root:
+[Valid][116][UTT][ MSE = 0.7322 | LCC = 0.7793 | SRCC = 0.7958 ]
+INFO:root:Average loss=-0.06139103323221207
+INFO:root:
+[Valid][117][UTT][ MSE = 0.6544 | LCC = 0.7793 | SRCC = 0.7952 ]
+INFO:root:Average loss=-0.06474342942237854
+INFO:root:
+[Valid][118][UTT][ MSE = 0.6357 | LCC = 0.7911 | SRCC = 0.8035 ]
+INFO:root:Average loss=-0.06629874557256699
+INFO:root:
+[Valid][119][UTT][ MSE = 0.7269 | LCC = 0.7851 | SRCC = 0.8004 ]
+INFO:root:Average loss=-0.06998971104621887
+INFO:root:
+[Valid][120][UTT][ MSE = 0.6598 | LCC = 0.7933 | SRCC = 0.8062 ]
+INFO:root:Average loss=-0.07392674684524536
+INFO:root:
+[Valid][121][UTT][ MSE = 0.6755 | LCC = 0.7899 | SRCC = 0.8016 ]
+INFO:root:Average loss=-0.08029297739267349
+INFO:root:
+[Valid][122][UTT][ MSE = 0.6502 | LCC = 0.7941 | SRCC = 0.8081 ]
+INFO:root:Average loss=-0.07733110338449478
+INFO:root:
+[Valid][123][UTT][ MSE = 0.6532 | LCC = 0.7876 | SRCC = 0.8006 ]
+INFO:root:Average loss=-0.08578626066446304
+INFO:root:
+[Valid][124][UTT][ MSE = 0.7242 | LCC = 0.7925 | SRCC = 0.8080 ]
+INFO:root:Average loss=-0.08318860083818436
+INFO:root:
+[Valid][125][UTT][ MSE = 0.7035 | LCC = 0.7911 | SRCC = 0.8042 ]
+INFO:root:Average loss=-0.08518282324075699
+INFO:root:
+[Valid][126][UTT][ MSE = 0.6569 | LCC = 0.7972 | SRCC = 0.8091 ]
+INFO:root:Average loss=-0.08231472969055176
+INFO:root:
+[Valid][127][UTT][ MSE = 0.6368 | LCC = 0.7962 | SRCC = 0.8069 ]
+INFO:root:Average loss=-0.08788623660802841
+INFO:root:
+[Valid][128][UTT][ MSE = 0.6147 | LCC = 0.7982 | SRCC = 0.8104 ]
+INFO:root:Average loss=-0.09391213953495026
+INFO:root:
+[Valid][129][UTT][ MSE = 0.7886 | LCC = 0.7856 | SRCC = 0.8045 ]
+INFO:root:Average loss=-0.09599652141332626
+INFO:root:
+[Valid][130][UTT][ MSE = 0.7184 | LCC = 0.8008 | SRCC = 0.8147 ]
+INFO:root:Average loss=-0.08076507598161697
+INFO:root:
+[Valid][131][UTT][ MSE = 0.6441 | LCC = 0.7998 | SRCC = 0.8129 ]
+INFO:root:Average loss=-0.09958665072917938
+INFO:root:
+[Valid][132][UTT][ MSE = 0.6313 | LCC = 0.8077 | SRCC = 0.8163 ]
+INFO:root:Average loss=-0.09049870073795319
+INFO:root:
+[Valid][133][UTT][ MSE = 0.5904 | LCC = 0.8083 | SRCC = 0.8163 ]
+INFO:root:Average loss=-0.09777701646089554
+INFO:root:
+[Valid][134][UTT][ MSE = 0.6133 | LCC = 0.8047 | SRCC = 0.8144 ]
+INFO:root:Average loss=-0.0881032720208168
+INFO:root:
+[Valid][135][UTT][ MSE = 0.7626 | LCC = 0.7927 | SRCC = 0.8096 ]
+INFO:root:Average loss=-0.0920722559094429
+INFO:root:
+[Valid][136][UTT][ MSE = 0.6497 | LCC = 0.8049 | SRCC = 0.8145 ]
+INFO:root:Average loss=-0.09707538038492203
+INFO:root:
+[Valid][137][UTT][ MSE = 0.5995 | LCC = 0.8032 | SRCC = 0.8142 ]
+INFO:root:Average loss=-0.09314566850662231
+INFO:root:
+[Valid][138][UTT][ MSE = 0.6938 | LCC = 0.8049 | SRCC = 0.8161 ]
+INFO:root:Average loss=-0.0861951932311058
+INFO:root:
+[Valid][139][UTT][ MSE = 0.6291 | LCC = 0.8089 | SRCC = 0.8182 ]
+INFO:root:Average loss=-0.10491995513439178
+INFO:root:
+[Valid][140][UTT][ MSE = 0.6481 | LCC = 0.8035 | SRCC = 0.8158 ]
+INFO:root:Average loss=-0.10390429943799973
+INFO:root:
+[Valid][141][UTT][ MSE = 0.5541 | LCC = 0.8038 | SRCC = 0.8146 ]
+INFO:root:Average loss=-0.10136333107948303
+INFO:root:
+[Valid][142][UTT][ MSE = 0.6432 | LCC = 0.8055 | SRCC = 0.8164 ]
+INFO:root:Average loss=-0.10002364963293076
+INFO:root:
+[Valid][143][UTT][ MSE = 0.5955 | LCC = 0.8128 | SRCC = 0.8228 ]
+INFO:root:Average loss=-0.11093269288539886
+INFO:root:
+[Valid][144][UTT][ MSE = 0.6469 | LCC = 0.8032 | SRCC = 0.8141 ]
+INFO:root:Average loss=-0.10676358640193939
+INFO:root:
+[Valid][145][UTT][ MSE = 0.6477 | LCC = 0.8085 | SRCC = 0.8205 ]
+INFO:root:Average loss=-0.10939234495162964
+INFO:root:
+[Valid][146][UTT][ MSE = 0.6704 | LCC = 0.8048 | SRCC = 0.8181 ]
+INFO:root:Average loss=-0.12313361465930939
+INFO:root:
+[Valid][147][UTT][ MSE = 0.6571 | LCC = 0.8037 | SRCC = 0.8157 ]
+INFO:root:Average loss=-0.12163873016834259
+INFO:root:
+[Valid][148][UTT][ MSE = 0.5621 | LCC = 0.8201 | SRCC = 0.8283 ]
+INFO:root:Average loss=-0.11211327463388443
+INFO:root:
+[Valid][149][UTT][ MSE = 0.6116 | LCC = 0.8128 | SRCC = 0.8223 ]
+INFO:root:Average loss=-0.11852969974279404
+INFO:root:
+[Valid][150][UTT][ MSE = 0.5289 | LCC = 0.8237 | SRCC = 0.8298 ]
+INFO:root:Average loss=-0.11187805980443954
+INFO:root:
+[Valid][151][UTT][ MSE = 0.5590 | LCC = 0.8060 | SRCC = 0.8167 ]
+INFO:root:Average loss=-0.137908935546875
+INFO:root:
+[Valid][152][UTT][ MSE = 0.5346 | LCC = 0.8177 | SRCC = 0.8265 ]
+INFO:root:Average loss=-0.11738717555999756
+INFO:root:
+[Valid][153][UTT][ MSE = 0.5548 | LCC = 0.8170 | SRCC = 0.8248 ]
+INFO:root:Average loss=-0.12920843064785004
+INFO:root:
+[Valid][154][UTT][ MSE = 0.5520 | LCC = 0.8149 | SRCC = 0.8241 ]
+INFO:root:Average loss=-0.12120705842971802
+INFO:root:
+[Valid][155][UTT][ MSE = 0.5048 | LCC = 0.8235 | SRCC = 0.8301 ]
+INFO:root:Average loss=-0.12653590738773346
+INFO:root:
+[Valid][156][UTT][ MSE = 0.6038 | LCC = 0.8220 | SRCC = 0.8323 ]
+INFO:root:Average loss=-0.13247649371623993
+INFO:root:
+[Valid][157][UTT][ MSE = 0.6161 | LCC = 0.8167 | SRCC = 0.8274 ]
+INFO:root:Average loss=-0.12458112090826035
+INFO:root:
+[Valid][158][UTT][ MSE = 0.5882 | LCC = 0.8148 | SRCC = 0.8238 ]
+INFO:root:Average loss=-0.1281714290380478
+INFO:root:
+[Valid][159][UTT][ MSE = 0.6497 | LCC = 0.8130 | SRCC = 0.8235 ]
+INFO:root:Average loss=-0.13276255130767822
+INFO:root:
+[Valid][160][UTT][ MSE = 0.5611 | LCC = 0.8216 | SRCC = 0.8294 ]
+INFO:root:Average loss=-0.12738598883152008
+INFO:root:
+[Valid][161][UTT][ MSE = 0.4714 | LCC = 0.8314 | SRCC = 0.8382 ]
+INFO:root:Average loss=-0.13194939494132996
+INFO:root:
+[Valid][162][UTT][ MSE = 0.7053 | LCC = 0.8093 | SRCC = 0.8240 ]
+INFO:root:Average loss=-0.13442359864711761
+INFO:root:
+[Valid][163][UTT][ MSE = 0.4576 | LCC = 0.8350 | SRCC = 0.8393 ]
+INFO:root:Average loss=-0.12498857080936432
+INFO:root:
+[Valid][164][UTT][ MSE = 0.4819 | LCC = 0.8373 | SRCC = 0.8426 ]
+INFO:root:Average loss=-0.13489750027656555
+INFO:root:
+[Valid][165][UTT][ MSE = 0.6226 | LCC = 0.8269 | SRCC = 0.8347 ]
+INFO:root:Average loss=-0.14242681860923767
+INFO:root:
+[Valid][166][UTT][ MSE = 0.6071 | LCC = 0.8289 | SRCC = 0.8376 ]
+INFO:root:Average loss=-0.14347699284553528
+INFO:root:
+[Valid][167][UTT][ MSE = 0.6653 | LCC = 0.8222 | SRCC = 0.8329 ]
+INFO:root:Average loss=-0.1515285223722458
+INFO:root:
+[Valid][168][UTT][ MSE = 0.4710 | LCC = 0.8352 | SRCC = 0.8402 ]
+INFO:root:Average loss=-0.13860318064689636
+INFO:root:
+[Valid][169][UTT][ MSE = 0.5104 | LCC = 0.8299 | SRCC = 0.8361 ]
+INFO:root:Average loss=-0.13495893776416779
+INFO:root:
+[Valid][170][UTT][ MSE = 0.4851 | LCC = 0.8319 | SRCC = 0.8363 ]
+INFO:root:Average loss=-0.12432429194450378
+INFO:root:
+[Valid][171][UTT][ MSE = 0.5428 | LCC = 0.8255 | SRCC = 0.8313 ]
+INFO:root:Average loss=-0.1539953500032425
+INFO:root:
+[Valid][172][UTT][ MSE = 0.5650 | LCC = 0.8243 | SRCC = 0.8310 ]
+INFO:root:Average loss=-0.13765506446361542
+INFO:root:
+[Valid][173][UTT][ MSE = 0.5029 | LCC = 0.8333 | SRCC = 0.8382 ]
+INFO:root:Average loss=-0.15000279247760773
+INFO:root:
+[Valid][174][UTT][ MSE = 0.4606 | LCC = 0.8389 | SRCC = 0.8421 ]
+INFO:root:Average loss=-0.1541011929512024
+INFO:root:
+[Valid][175][UTT][ MSE = 0.5298 | LCC = 0.8300 | SRCC = 0.8371 ]
+INFO:root:Average loss=-0.15244972705841064
+INFO:root:
+[Valid][176][UTT][ MSE = 0.6448 | LCC = 0.8121 | SRCC = 0.8229 ]
+INFO:root:Average loss=-0.15523356199264526
+INFO:root:
+[Valid][177][UTT][ MSE = 0.4572 | LCC = 0.8366 | SRCC = 0.8400 ]
+INFO:root:Average loss=-0.14685885608196259
+INFO:root:
+[Valid][178][UTT][ MSE = 0.5623 | LCC = 0.8303 | SRCC = 0.8368 ]
+INFO:root:Average loss=-0.15083864331245422
+INFO:root:
+[Valid][179][UTT][ MSE = 0.6446 | LCC = 0.8214 | SRCC = 0.8289 ]
+INFO:root:Average loss=-0.14836403727531433
+INFO:root:
+[Valid][180][UTT][ MSE = 0.5742 | LCC = 0.8247 | SRCC = 0.8327 ]
+INFO:root:Average loss=-0.1524951159954071
+INFO:root:
+[Valid][181][UTT][ MSE = 0.6917 | LCC = 0.8110 | SRCC = 0.8235 ]
+INFO:root:Average loss=-0.15396364033222198
+INFO:root:
+[Valid][182][UTT][ MSE = 0.5772 | LCC = 0.8271 | SRCC = 0.8332 ]
+INFO:root:Average loss=-0.16139382123947144
+INFO:root:
+[Valid][183][UTT][ MSE = 0.4747 | LCC = 0.8389 | SRCC = 0.8431 ]
+INFO:root:Average loss=-0.15443368256092072
+INFO:root:
+[Valid][184][UTT][ MSE = 0.6352 | LCC = 0.8255 | SRCC = 0.8335 ]
+INFO:root:Average loss=-0.15534035861492157
+INFO:root:
+[Valid][185][UTT][ MSE = 0.5288 | LCC = 0.8306 | SRCC = 0.8383 ]
+INFO:root:Average loss=-0.16199162602424622
+INFO:root:
+[Valid][186][UTT][ MSE = 0.7822 | LCC = 0.8153 | SRCC = 0.8256 ]
+INFO:root:Average loss=-0.16744375228881836
+INFO:root:
+[Valid][187][UTT][ MSE = 0.4637 | LCC = 0.8398 | SRCC = 0.8436 ]
+INFO:root:Average loss=-0.1634410172700882
+INFO:root:
+[Valid][188][UTT][ MSE = 0.4108 | LCC = 0.8411 | SRCC = 0.8448 ]
+INFO:root:Average loss=-0.1602739691734314
+INFO:root:
+[Valid][189][UTT][ MSE = 0.5339 | LCC = 0.8324 | SRCC = 0.8365 ]
+INFO:root:Average loss=-0.1589164435863495
+INFO:root:
+[Valid][190][UTT][ MSE = 0.4409 | LCC = 0.8466 | SRCC = 0.8491 ]
+INFO:root:Average loss=-0.16300956904888153
+INFO:root:
+[Valid][191][UTT][ MSE = 0.7056 | LCC = 0.8220 | SRCC = 0.8314 ]
+INFO:root:Average loss=-0.17015160620212555
+INFO:root:
+[Valid][192][UTT][ MSE = 0.5368 | LCC = 0.8404 | SRCC = 0.8445 ]
+INFO:root:Average loss=-0.15819819271564484
+INFO:root:
+[Valid][193][UTT][ MSE = 0.5568 | LCC = 0.8336 | SRCC = 0.8413 ]
+INFO:root:Average loss=-0.16413922607898712
+INFO:root:
+[Valid][194][UTT][ MSE = 0.4913 | LCC = 0.8398 | SRCC = 0.8453 ]
+INFO:root:Average loss=-0.17879033088684082
+INFO:root:
+[Valid][195][UTT][ MSE = 0.5215 | LCC = 0.8370 | SRCC = 0.8425 ]
+INFO:root:Average loss=-0.16794170439243317
+INFO:root:
+[Valid][196][UTT][ MSE = 0.4492 | LCC = 0.8415 | SRCC = 0.8445 ]
+INFO:root:Average loss=-0.17905430495738983
+INFO:root:
+[Valid][197][UTT][ MSE = 0.5047 | LCC = 0.8341 | SRCC = 0.8411 ]
+INFO:root:Average loss=-0.15923099219799042
+INFO:root:
+[Valid][198][UTT][ MSE = 0.5060 | LCC = 0.8353 | SRCC = 0.8397 ]
+INFO:root:Average loss=-0.17672918736934662
+INFO:root:
+[Valid][199][UTT][ MSE = 0.6171 | LCC = 0.8283 | SRCC = 0.8357 ]
+INFO:root:Average loss=-0.17383629083633423
+INFO:root:
+[Valid][200][UTT][ MSE = 0.5945 | LCC = 0.8335 | SRCC = 0.8384 ]
+INFO:root:Average loss=-0.17490436136722565
+INFO:root:
+[Valid][201][UTT][ MSE = 0.5394 | LCC = 0.8356 | SRCC = 0.8413 ]
+INFO:root:Average loss=-0.18226107954978943
+INFO:root:
+[Valid][202][UTT][ MSE = 0.5252 | LCC = 0.8393 | SRCC = 0.8430 ]
+INFO:root:Average loss=-0.1905733346939087
+INFO:root:
+[Valid][203][UTT][ MSE = 0.4528 | LCC = 0.8461 | SRCC = 0.8481 ]
+INFO:root:Average loss=-0.17383643984794617
+INFO:root:
+[Valid][204][UTT][ MSE = 0.5121 | LCC = 0.8355 | SRCC = 0.8386 ]
+INFO:root:Average loss=-0.1761711835861206
+INFO:root:
+[Valid][205][UTT][ MSE = 0.5764 | LCC = 0.8343 | SRCC = 0.8393 ]
+INFO:root:Average loss=-0.17777900397777557
+INFO:root:
+[Valid][206][UTT][ MSE = 0.4719 | LCC = 0.8442 | SRCC = 0.8465 ]
+INFO:root:Average loss=-0.18982462584972382
+INFO:root:
+[Valid][207][UTT][ MSE = 0.5249 | LCC = 0.8387 | SRCC = 0.8434 ]
+INFO:root:Average loss=-0.19412004947662354
+INFO:root:
+[Valid][208][UTT][ MSE = 0.5201 | LCC = 0.8383 | SRCC = 0.8429 ]
+INFO:root:Average loss=-0.1819300800561905
+INFO:root:
+[Valid][209][UTT][ MSE = 0.5333 | LCC = 0.8398 | SRCC = 0.8474 ]
+INFO:root:Average loss=-0.18753403425216675
+INFO:root:
+[Valid][210][UTT][ MSE = 0.5163 | LCC = 0.8475 | SRCC = 0.8522 ]
+INFO:root:Average loss=-0.167926624417305
+INFO:root:
+[Valid][211][UTT][ MSE = 0.5640 | LCC = 0.8385 | SRCC = 0.8442 ]
+INFO:root:Average loss=-0.19038140773773193
+INFO:root:
+[Valid][212][UTT][ MSE = 0.5211 | LCC = 0.8387 | SRCC = 0.8437 ]
+INFO:root:Average loss=-0.18879413604736328
+INFO:root:
+[Valid][213][UTT][ MSE = 0.6551 | LCC = 0.8298 | SRCC = 0.8362 ]
+INFO:root:Average loss=-0.18589061498641968
+INFO:root:
+[Valid][214][UTT][ MSE = 0.4952 | LCC = 0.8463 | SRCC = 0.8499 ]
+INFO:root:Average loss=-0.1955699622631073
+INFO:root:
+[Valid][215][UTT][ MSE = 0.4679 | LCC = 0.8464 | SRCC = 0.8512 ]
+INFO:root:Average loss=-0.19069668650627136
+INFO:root:
+[Valid][216][UTT][ MSE = 0.4615 | LCC = 0.8466 | SRCC = 0.8505 ]
+INFO:root:Average loss=-0.18961207568645477
+INFO:root:
+[Valid][217][UTT][ MSE = 0.4970 | LCC = 0.8410 | SRCC = 0.8452 ]
+INFO:root:Average loss=-0.191295325756073
+INFO:root:
+[Valid][218][UTT][ MSE = 0.5442 | LCC = 0.8440 | SRCC = 0.8492 ]
+INFO:root:Average loss=-0.1906287670135498
+INFO:root:
+[Valid][219][UTT][ MSE = 0.5289 | LCC = 0.8404 | SRCC = 0.8470 ]
+INFO:root:Average loss=-0.19472961127758026
+INFO:root:
+[Valid][220][UTT][ MSE = 0.5399 | LCC = 0.8449 | SRCC = 0.8497 ]
+INFO:root:Average loss=-0.19875243306159973
+INFO:root:
+[Valid][221][UTT][ MSE = 0.4334 | LCC = 0.8510 | SRCC = 0.8544 ]
+INFO:root:Average loss=-0.20476068556308746
+INFO:root:
+[Valid][222][UTT][ MSE = 0.4425 | LCC = 0.8467 | SRCC = 0.8496 ]
+INFO:root:Average loss=-0.18996170163154602
+INFO:root:
+[Valid][223][UTT][ MSE = 0.4697 | LCC = 0.8496 | SRCC = 0.8535 ]
+INFO:root:Average loss=-0.20709653198719025
+INFO:root:
+[Valid][224][UTT][ MSE = 0.5219 | LCC = 0.8396 | SRCC = 0.8448 ]
+INFO:root:Average loss=-0.21128539741039276
+INFO:root:
+[Valid][225][UTT][ MSE = 0.4455 | LCC = 0.8517 | SRCC = 0.8533 ]
+INFO:root:Average loss=-0.1996462643146515
+INFO:root:
+[Valid][226][UTT][ MSE = 0.5783 | LCC = 0.8372 | SRCC = 0.8446 ]
+INFO:root:Average loss=-0.2019728571176529
+INFO:root:
+[Valid][227][UTT][ MSE = 0.4764 | LCC = 0.8477 | SRCC = 0.8530 ]
+INFO:root:Average loss=-0.19766177237033844
+INFO:root:
+[Valid][228][UTT][ MSE = 0.4291 | LCC = 0.8496 | SRCC = 0.8512 ]
+INFO:root:Average loss=-0.20752094686031342
+INFO:root:
+[Valid][229][UTT][ MSE = 0.4877 | LCC = 0.8496 | SRCC = 0.8521 ]
+INFO:root:Average loss=-0.19871510565280914
+INFO:root:
+[Valid][230][UTT][ MSE = 0.4669 | LCC = 0.8510 | SRCC = 0.8542 ]
+INFO:root:Average loss=-0.20872381329536438
+INFO:root:
+[Valid][231][UTT][ MSE = 0.4297 | LCC = 0.8521 | SRCC = 0.8546 ]
+INFO:root:Average loss=-0.2053040862083435
+INFO:root:
+[Valid][232][UTT][ MSE = 0.5769 | LCC = 0.8438 | SRCC = 0.8525 ]
+INFO:root:Average loss=-0.2151445746421814
+INFO:root:
+[Valid][233][UTT][ MSE = 0.4524 | LCC = 0.8505 | SRCC = 0.8541 ]
+INFO:root:Average loss=-0.20731396973133087
+INFO:root:
+[Valid][234][UTT][ MSE = 0.4635 | LCC = 0.8529 | SRCC = 0.8571 ]
+INFO:root:Average loss=-0.20510460436344147
+INFO:root:
+[Valid][235][UTT][ MSE = 0.4312 | LCC = 0.8510 | SRCC = 0.8548 ]
+INFO:root:Average loss=-0.2277970016002655
+INFO:root:
+[Valid][236][UTT][ MSE = 0.4797 | LCC = 0.8470 | SRCC = 0.8521 ]
+INFO:root:Average loss=-0.21327152848243713
+INFO:root:
+[Valid][237][UTT][ MSE = 0.4475 | LCC = 0.8482 | SRCC = 0.8533 ]
+INFO:root:Average loss=-0.2225087583065033
+INFO:root:
+[Valid][238][UTT][ MSE = 0.4694 | LCC = 0.8480 | SRCC = 0.8514 ]
+INFO:root:Average loss=-0.2113267034292221
+INFO:root:
+[Valid][239][UTT][ MSE = 0.6034 | LCC = 0.8379 | SRCC = 0.8433 ]
+INFO:root:Average loss=-0.21372057497501373
+INFO:root:
+[Valid][240][UTT][ MSE = 0.4473 | LCC = 0.8513 | SRCC = 0.8562 ]
+INFO:root:Average loss=-0.20952372252941132
+INFO:root:
+[Valid][241][UTT][ MSE = 0.4936 | LCC = 0.8512 | SRCC = 0.8562 ]
+INFO:root:Average loss=-0.22113895416259766
+INFO:root:
+[Valid][242][UTT][ MSE = 0.4820 | LCC = 0.8502 | SRCC = 0.8557 ]
+INFO:root:Average loss=-0.21915578842163086
+INFO:root:
+[Valid][243][UTT][ MSE = 0.4340 | LCC = 0.8575 | SRCC = 0.8598 ]
+INFO:root:Average loss=-0.21889789402484894
+INFO:root:
+[Valid][244][UTT][ MSE = 0.4957 | LCC = 0.8479 | SRCC = 0.8528 ]
+INFO:root:Average loss=-0.23344647884368896
+INFO:root:
+[Valid][245][UTT][ MSE = 0.5123 | LCC = 0.8461 | SRCC = 0.8502 ]
+INFO:root:Average loss=-0.21194103360176086
+INFO:root:
+[Valid][246][UTT][ MSE = 0.5129 | LCC = 0.8424 | SRCC = 0.8475 ]
+INFO:root:Average loss=-0.2310735434293747
+INFO:root:
+[Valid][247][UTT][ MSE = 0.5040 | LCC = 0.8496 | SRCC = 0.8552 ]
+INFO:root:Average loss=-0.21301285922527313
+INFO:root:
+[Valid][248][UTT][ MSE = 0.5275 | LCC = 0.8511 | SRCC = 0.8558 ]
+INFO:root:Average loss=-0.2253759801387787
+INFO:root:
+[Valid][249][UTT][ MSE = 0.4425 | LCC = 0.8555 | SRCC = 0.8575 ]
+INFO:root:Average loss=-0.21825248003005981
+INFO:root:
+[Valid][250][UTT][ MSE = 0.4088 | LCC = 0.8587 | SRCC = 0.8596 ]
+INFO:root:Average loss=-0.22876612842082977
+INFO:root:
+[Valid][251][UTT][ MSE = 0.4673 | LCC = 0.8567 | SRCC = 0.8614 ]
+INFO:root:Average loss=-0.2273935228586197
+INFO:root:
+[Valid][252][UTT][ MSE = 0.5333 | LCC = 0.8481 | SRCC = 0.8537 ]
+INFO:root:Average loss=-0.21649859845638275
+INFO:root:
+[Valid][253][UTT][ MSE = 0.5360 | LCC = 0.8413 | SRCC = 0.8497 ]
+INFO:root:Average loss=-0.23321282863616943
+INFO:root:
+[Valid][254][UTT][ MSE = 0.4582 | LCC = 0.8552 | SRCC = 0.8584 ]
+INFO:root:Average loss=-0.22340738773345947
+INFO:root:
+[Valid][255][UTT][ MSE = 0.4705 | LCC = 0.8559 | SRCC = 0.8633 ]
+INFO:root:Average loss=-0.23120814561843872
+INFO:root:
+[Valid][256][UTT][ MSE = 0.4745 | LCC = 0.8521 | SRCC = 0.8572 ]
+INFO:root:Average loss=-0.2327856570482254
+INFO:root:
+[Valid][257][UTT][ MSE = 0.4635 | LCC = 0.8548 | SRCC = 0.8592 ]
+INFO:root:Average loss=-0.23197709023952484
+INFO:root:
+[Valid][258][UTT][ MSE = 0.4978 | LCC = 0.8492 | SRCC = 0.8568 ]
+INFO:root:Average loss=-0.23539309203624725
+INFO:root:
+[Valid][259][UTT][ MSE = 0.4207 | LCC = 0.8522 | SRCC = 0.8553 ]
+INFO:root:Average loss=-0.22289468348026276
+INFO:root:
+[Valid][260][UTT][ MSE = 0.5035 | LCC = 0.8515 | SRCC = 0.8596 ]
+INFO:root:Average loss=-0.22586040198802948
+INFO:root:
+[Valid][261][UTT][ MSE = 0.5109 | LCC = 0.8503 | SRCC = 0.8560 ]
+INFO:root:Average loss=-0.23393407464027405
+INFO:root:
+[Valid][262][UTT][ MSE = 0.5124 | LCC = 0.8455 | SRCC = 0.8536 ]
+INFO:root:Average loss=-0.228000670671463
+INFO:root:
+[Valid][263][UTT][ MSE = 0.4057 | LCC = 0.8561 | SRCC = 0.8587 ]
+INFO:root:Average loss=-0.228898286819458
+INFO:root:
+[Valid][264][UTT][ MSE = 0.4932 | LCC = 0.8487 | SRCC = 0.8557 ]
+INFO:root:Average loss=-0.23854203522205353
+INFO:root:
+[Valid][265][UTT][ MSE = 0.5306 | LCC = 0.8486 | SRCC = 0.8547 ]
+INFO:root:Average loss=-0.23634940385818481
+INFO:root:
+[Valid][266][UTT][ MSE = 0.5594 | LCC = 0.8446 | SRCC = 0.8544 ]
+INFO:root:Average loss=-0.23136016726493835
+INFO:root:
+[Valid][267][UTT][ MSE = 0.4528 | LCC = 0.8566 | SRCC = 0.8620 ]
+INFO:root:Average loss=-0.24411457777023315
+INFO:root:
+[Valid][268][UTT][ MSE = 0.4364 | LCC = 0.8504 | SRCC = 0.8574 ]
+INFO:root:Average loss=-0.23466236889362335
+INFO:root:
+[Valid][269][UTT][ MSE = 0.4323 | LCC = 0.8562 | SRCC = 0.8589 ]
+INFO:root:Average loss=-0.23079939186573029
+INFO:root:
+[Valid][270][UTT][ MSE = 0.4192 | LCC = 0.8557 | SRCC = 0.8587 ]
+INFO:root:Average loss=-0.23713713884353638
+INFO:root:
+[Valid][271][UTT][ MSE = 0.4608 | LCC = 0.8545 | SRCC = 0.8591 ]
+INFO:root:Average loss=-0.23218828439712524
+INFO:root:
+[Valid][272][UTT][ MSE = 0.5204 | LCC = 0.8500 | SRCC = 0.8578 ]
+INFO:root:Average loss=-0.2345445454120636
+INFO:root:
+[Valid][273][UTT][ MSE = 0.4668 | LCC = 0.8551 | SRCC = 0.8597 ]
+INFO:root:Average loss=-0.24014483392238617
+INFO:root:
+[Valid][274][UTT][ MSE = 0.5915 | LCC = 0.8465 | SRCC = 0.8559 ]
+INFO:root:Average loss=-0.2462272346019745
+INFO:root:
+[Valid][275][UTT][ MSE = 0.4402 | LCC = 0.8524 | SRCC = 0.8570 ]
+INFO:root:Average loss=-0.24607636034488678
+INFO:root:
+[Valid][276][UTT][ MSE = 0.4712 | LCC = 0.8468 | SRCC = 0.8532 ]
+INFO:root:Average loss=-0.2395806759595871
+INFO:root:
+[Valid][277][UTT][ MSE = 0.4586 | LCC = 0.8545 | SRCC = 0.8599 ]
+INFO:root:Average loss=-0.2466735541820526
+INFO:root:
+[Valid][278][UTT][ MSE = 0.4814 | LCC = 0.8535 | SRCC = 0.8608 ]
+INFO:root:Average loss=-0.24319538474082947
+INFO:root:
+[Valid][279][UTT][ MSE = 0.4514 | LCC = 0.8515 | SRCC = 0.8575 ]
+INFO:root:Average loss=-0.23759391903877258
+INFO:root:
+[Valid][280][UTT][ MSE = 0.4776 | LCC = 0.8489 | SRCC = 0.8541 ]
+INFO:root:Average loss=-0.24902859330177307
+INFO:root:
+[Valid][281][UTT][ MSE = 0.5254 | LCC = 0.8478 | SRCC = 0.8555 ]
+INFO:root:Average loss=-0.24166345596313477
+INFO:root:
+[Valid][282][UTT][ MSE = 0.5387 | LCC = 0.8536 | SRCC = 0.8605 ]
+INFO:root:Average loss=-0.24131612479686737
+INFO:root:
+[Valid][283][UTT][ MSE = 0.5923 | LCC = 0.8395 | SRCC = 0.8484 ]
+INFO:root:Average loss=-0.24948212504386902
+INFO:root:
+[Valid][284][UTT][ MSE = 0.4587 | LCC = 0.8572 | SRCC = 0.8611 ]
+INFO:root:Average loss=-0.24964885413646698
+INFO:root:
+[Valid][285][UTT][ MSE = 0.4914 | LCC = 0.8475 | SRCC = 0.8550 ]
+INFO:root:Average loss=-0.2544724643230438
+INFO:root:
+[Valid][286][UTT][ MSE = 0.4571 | LCC = 0.8512 | SRCC = 0.8569 ]
+INFO:root:Average loss=-0.24254430830478668
+INFO:root:
+[Valid][287][UTT][ MSE = 0.5082 | LCC = 0.8529 | SRCC = 0.8579 ]
+INFO:root:Average loss=-0.2576834559440613
+INFO:root:
+[Valid][288][UTT][ MSE = 0.4574 | LCC = 0.8564 | SRCC = 0.8593 ]
+INFO:root:Average loss=-0.25863149762153625
+INFO:root:
+[Valid][289][UTT][ MSE = 0.3924 | LCC = 0.8628 | SRCC = 0.8653 ]
+INFO:root:Average loss=-0.24271966516971588
+INFO:root:
+[Valid][290][UTT][ MSE = 0.4500 | LCC = 0.8527 | SRCC = 0.8593 ]
+INFO:root:Average loss=-0.2569696009159088
+INFO:root:
+[Valid][291][UTT][ MSE = 0.5126 | LCC = 0.8545 | SRCC = 0.8609 ]
+INFO:root:Average loss=-0.24874192476272583
+INFO:root:
+[Valid][292][UTT][ MSE = 0.4040 | LCC = 0.8562 | SRCC = 0.8600 ]
+INFO:root:Average loss=-0.2495051622390747
+INFO:root:
+[Valid][293][UTT][ MSE = 0.4460 | LCC = 0.8587 | SRCC = 0.8611 ]
+INFO:root:Average loss=-0.264472633600235
+INFO:root:
+[Valid][294][UTT][ MSE = 0.5125 | LCC = 0.8490 | SRCC = 0.8548 ]
+INFO:root:Average loss=-0.2565368413925171
+INFO:root:
+[Valid][295][UTT][ MSE = 0.5366 | LCC = 0.8532 | SRCC = 0.8579 ]
+INFO:root:Average loss=-0.2517462372779846
+INFO:root:
+[Valid][296][UTT][ MSE = 0.3877 | LCC = 0.8628 | SRCC = 0.8657 ]
+INFO:root:Average loss=-0.2658797800540924
+INFO:root:
+[Valid][297][UTT][ MSE = 0.4531 | LCC = 0.8537 | SRCC = 0.8593 ]
+INFO:root:Average loss=-0.2544122338294983
+INFO:root:
+[Valid][298][UTT][ MSE = 0.5622 | LCC = 0.8505 | SRCC = 0.8583 ]
+INFO:root:Average loss=-0.25218963623046875
+INFO:root:
+[Valid][299][UTT][ MSE = 0.4465 | LCC = 0.8585 | SRCC = 0.8609 ]
+INFO:root:Average loss=-0.2624783217906952
+INFO:root:
+[Valid][300][UTT][ MSE = 0.4585 | LCC = 0.8600 | SRCC = 0.8645 ]
+INFO:root:Average loss=-0.26086917519569397
+INFO:root:
+[Valid][301][UTT][ MSE = 0.3723 | LCC = 0.8662 | SRCC = 0.8664 ]
+INFO:root:Average loss=-0.2650052011013031
+INFO:root:
+[Valid][302][UTT][ MSE = 0.4313 | LCC = 0.8621 | SRCC = 0.8676 ]
+INFO:root:Average loss=-0.26412245631217957
+INFO:root:
+[Valid][303][UTT][ MSE = 0.3734 | LCC = 0.8679 | SRCC = 0.8695 ]
+INFO:root:Average loss=-0.2608116865158081
+INFO:root:
+[Valid][304][UTT][ MSE = 0.3797 | LCC = 0.8627 | SRCC = 0.8647 ]
+INFO:root:Average loss=-0.2552140951156616
+INFO:root:
+[Valid][305][UTT][ MSE = 0.4420 | LCC = 0.8529 | SRCC = 0.8585 ]
+INFO:root:Average loss=-0.2577280104160309
+INFO:root:
+[Valid][306][UTT][ MSE = 0.4540 | LCC = 0.8617 | SRCC = 0.8652 ]
+INFO:root:Average loss=-0.2771188020706177
+INFO:root:
+[Valid][307][UTT][ MSE = 0.5415 | LCC = 0.8529 | SRCC = 0.8601 ]
+INFO:root:Average loss=-0.24910427629947662
+INFO:root:
+[Valid][308][UTT][ MSE = 0.5122 | LCC = 0.8503 | SRCC = 0.8553 ]
+INFO:root:Average loss=-0.2697902321815491
+INFO:root:
+[Valid][309][UTT][ MSE = 0.5062 | LCC = 0.8545 | SRCC = 0.8589 ]
+INFO:root:Average loss=-0.26665860414505005
+INFO:root:
+[Valid][310][UTT][ MSE = 0.4676 | LCC = 0.8578 | SRCC = 0.8628 ]
+INFO:root:Average loss=-0.2718335688114166
+INFO:root:
+[Valid][311][UTT][ MSE = 0.4224 | LCC = 0.8583 | SRCC = 0.8621 ]
+INFO:root:Average loss=-0.2719759941101074
+INFO:root:
+[Valid][312][UTT][ MSE = 0.3533 | LCC = 0.8661 | SRCC = 0.8675 ]
+INFO:root:Average loss=-0.2658231556415558
+INFO:root:
+[Valid][313][UTT][ MSE = 0.4165 | LCC = 0.8615 | SRCC = 0.8637 ]
+INFO:root:Average loss=-0.270370751619339
+INFO:root:
+[Valid][314][UTT][ MSE = 0.4019 | LCC = 0.8660 | SRCC = 0.8689 ]
+INFO:root:Average loss=-0.26472610235214233
+INFO:root:
+[Valid][315][UTT][ MSE = 0.3797 | LCC = 0.8663 | SRCC = 0.8695 ]
+INFO:root:Average loss=-0.26149624586105347
+INFO:root:
+[Valid][316][UTT][ MSE = 0.4727 | LCC = 0.8633 | SRCC = 0.8657 ]
+INFO:root:Average loss=-0.27072495222091675
+INFO:root:
+[Valid][317][UTT][ MSE = 0.4771 | LCC = 0.8562 | SRCC = 0.8599 ]
+INFO:root:Average loss=-0.2784905433654785
+INFO:root:
+[Valid][318][UTT][ MSE = 0.4467 | LCC = 0.8590 | SRCC = 0.8617 ]
+INFO:root:Average loss=-0.2785196602344513
+INFO:root:
+[Valid][319][UTT][ MSE = 0.4425 | LCC = 0.8586 | SRCC = 0.8618 ]
+INFO:root:Average loss=-0.2741420567035675
+INFO:root:
+[Valid][320][UTT][ MSE = 0.4612 | LCC = 0.8601 | SRCC = 0.8637 ]
+INFO:root:Average loss=-0.27494579553604126
+INFO:root:
+[Valid][321][UTT][ MSE = 0.4725 | LCC = 0.8617 | SRCC = 0.8656 ]
+INFO:root:Average loss=-0.2811329960823059
+INFO:root:
+[Valid][322][UTT][ MSE = 0.4434 | LCC = 0.8585 | SRCC = 0.8643 ]
+INFO:root:Average loss=-0.27603814005851746
+INFO:root:
+[Valid][323][UTT][ MSE = 0.4944 | LCC = 0.8520 | SRCC = 0.8576 ]
+INFO:root:Average loss=-0.2647300064563751
+INFO:root:
+[Valid][324][UTT][ MSE = 0.4700 | LCC = 0.8616 | SRCC = 0.8652 ]
+INFO:root:Average loss=-0.2707644999027252
+INFO:root:
+[Valid][325][UTT][ MSE = 0.3902 | LCC = 0.8642 | SRCC = 0.8672 ]
+INFO:root:Average loss=-0.2823115885257721
+INFO:root:
+[Valid][326][UTT][ MSE = 0.4456 | LCC = 0.8569 | SRCC = 0.8612 ]
+INFO:root:Average loss=-0.2858482599258423
+INFO:root:
+[Valid][327][UTT][ MSE = 0.4045 | LCC = 0.8664 | SRCC = 0.8690 ]
+INFO:root:Average loss=-0.2765441834926605
+INFO:root:
+[Valid][328][UTT][ MSE = 0.4090 | LCC = 0.8640 | SRCC = 0.8674 ]
+INFO:root:Average loss=-0.27940914034843445
+INFO:root:
+[Valid][329][UTT][ MSE = 0.4101 | LCC = 0.8679 | SRCC = 0.8696 ]
+INFO:root:Average loss=-0.2811121344566345
+INFO:root:
+[Valid][330][UTT][ MSE = 0.4217 | LCC = 0.8589 | SRCC = 0.8629 ]
+INFO:root:Average loss=-0.28774604201316833
+INFO:root:
+[Valid][331][UTT][ MSE = 0.3944 | LCC = 0.8650 | SRCC = 0.8665 ]
+INFO:root:Average loss=-0.2748558819293976
+INFO:root:
+[Valid][332][UTT][ MSE = 0.4057 | LCC = 0.8608 | SRCC = 0.8653 ]
+INFO:root:Average loss=-0.27843785285949707
+INFO:root:
+[Valid][333][UTT][ MSE = 0.4685 | LCC = 0.8586 | SRCC = 0.8640 ]
+INFO:root:Average loss=-0.28971201181411743
+INFO:root:
+[Valid][334][UTT][ MSE = 0.4507 | LCC = 0.8590 | SRCC = 0.8616 ]
+INFO:root:Average loss=-0.2753678858280182
+INFO:root:
+[Valid][335][UTT][ MSE = 0.4076 | LCC = 0.8602 | SRCC = 0.8643 ]
+INFO:root:Average loss=-0.2830096185207367
+INFO:root:
+[Valid][336][UTT][ MSE = 0.3631 | LCC = 0.8682 | SRCC = 0.8692 ]
+INFO:root:Average loss=-0.28583824634552
+INFO:root:
+[Valid][337][UTT][ MSE = 0.5192 | LCC = 0.8527 | SRCC = 0.8606 ]
+INFO:root:Average loss=-0.27292218804359436
+INFO:root:
+[Valid][338][UTT][ MSE = 0.4028 | LCC = 0.8657 | SRCC = 0.8675 ]
+INFO:root:Average loss=-0.28531989455223083
+INFO:root:
+[Valid][339][UTT][ MSE = 0.4315 | LCC = 0.8630 | SRCC = 0.8657 ]
+INFO:root:Average loss=-0.2787458300590515
+INFO:root:
+[Valid][340][UTT][ MSE = 0.3606 | LCC = 0.8670 | SRCC = 0.8682 ]
+INFO:root:Average loss=-0.2835741341114044
+INFO:root:
+[Valid][341][UTT][ MSE = 0.4801 | LCC = 0.8602 | SRCC = 0.8654 ]
+INFO:root:Average loss=-0.2825806438922882
+INFO:root:
+[Valid][342][UTT][ MSE = 0.4612 | LCC = 0.8551 | SRCC = 0.8604 ]
+INFO:root:Average loss=-0.291290819644928
+INFO:root:
+[Valid][343][UTT][ MSE = 0.3887 | LCC = 0.8658 | SRCC = 0.8699 ]
+INFO:root:Average loss=-0.27991434931755066
+INFO:root:
+[Valid][344][UTT][ MSE = 0.4448 | LCC = 0.8607 | SRCC = 0.8648 ]
+INFO:root:Average loss=-0.2975621223449707
+INFO:root:
+[Valid][345][UTT][ MSE = 0.4183 | LCC = 0.8629 | SRCC = 0.8668 ]
+INFO:root:Average loss=-0.2950184941291809
+INFO:root:
+[Valid][346][UTT][ MSE = 0.3907 | LCC = 0.8653 | SRCC = 0.8676 ]
+INFO:root:Average loss=-0.2914225459098816
+INFO:root:
+[Valid][347][UTT][ MSE = 0.4012 | LCC = 0.8660 | SRCC = 0.8692 ]
+INFO:root:Average loss=-0.2776598632335663
+INFO:root:
+[Valid][348][UTT][ MSE = 0.3849 | LCC = 0.8698 | SRCC = 0.8720 ]
+INFO:root:Average loss=-0.2933090031147003
+INFO:root:
+[Valid][349][UTT][ MSE = 0.4081 | LCC = 0.8617 | SRCC = 0.8651 ]
+INFO:root:Average loss=-0.28197604417800903
+INFO:root:
+[Valid][350][UTT][ MSE = 0.5049 | LCC = 0.8591 | SRCC = 0.8652 ]
+INFO:root:Average loss=-0.28481853008270264
+INFO:root:
+[Valid][351][UTT][ MSE = 0.4228 | LCC = 0.8605 | SRCC = 0.8654 ]
+INFO:root:Average loss=-0.2868625819683075
+INFO:root:
+[Valid][352][UTT][ MSE = 0.4460 | LCC = 0.8610 | SRCC = 0.8660 ]
+INFO:root:Average loss=-0.2970620393753052
+INFO:root:
+[Valid][353][UTT][ MSE = 0.4663 | LCC = 0.8621 | SRCC = 0.8671 ]
+INFO:root:Average loss=-0.29186558723449707
+INFO:root:
+[Valid][354][UTT][ MSE = 0.3607 | LCC = 0.8703 | SRCC = 0.8714 ]
+INFO:root:Average loss=-0.29798802733421326
+INFO:root:
+[Valid][355][UTT][ MSE = 0.3798 | LCC = 0.8702 | SRCC = 0.8722 ]
+INFO:root:Average loss=-0.2914045751094818
+INFO:root:
+[Valid][356][UTT][ MSE = 0.4307 | LCC = 0.8636 | SRCC = 0.8690 ]
+INFO:root:Average loss=-0.29209232330322266
+INFO:root:
+[Valid][357][UTT][ MSE = 0.4264 | LCC = 0.8634 | SRCC = 0.8687 ]
+INFO:root:Average loss=-0.2987631857395172
+INFO:root:
+[Valid][358][UTT][ MSE = 0.4505 | LCC = 0.8573 | SRCC = 0.8606 ]
+INFO:root:Average loss=-0.28326523303985596
+INFO:root:
+[Valid][359][UTT][ MSE = 0.4136 | LCC = 0.8668 | SRCC = 0.8707 ]
+INFO:root:Average loss=-0.30180931091308594
+INFO:root:
+[Valid][360][UTT][ MSE = 0.4642 | LCC = 0.8577 | SRCC = 0.8634 ]
+INFO:root:Average loss=-0.3054306209087372
+INFO:root:
+[Valid][361][UTT][ MSE = 0.5098 | LCC = 0.8572 | SRCC = 0.8646 ]
+INFO:root:Average loss=-0.2981819212436676
+INFO:root:
+[Valid][362][UTT][ MSE = 0.4347 | LCC = 0.8611 | SRCC = 0.8656 ]
+INFO:root:Average loss=-0.2893344759941101
+INFO:root:
+[Valid][363][UTT][ MSE = 0.3892 | LCC = 0.8614 | SRCC = 0.8654 ]
+INFO:root:Average loss=-0.2949492335319519
+INFO:root:
+[Valid][364][UTT][ MSE = 0.4462 | LCC = 0.8614 | SRCC = 0.8668 ]
+INFO:root:Average loss=-0.2956005036830902
+INFO:root:
+[Valid][365][UTT][ MSE = 0.4642 | LCC = 0.8580 | SRCC = 0.8626 ]
+INFO:root:Average loss=-0.3025209605693817
+INFO:root:
+[Valid][366][UTT][ MSE = 0.4647 | LCC = 0.8621 | SRCC = 0.8676 ]
+INFO:root:Average loss=-0.29659777879714966
+INFO:root:
+[Valid][367][UTT][ MSE = 0.5216 | LCC = 0.8613 | SRCC = 0.8654 ]
+INFO:root:Average loss=-0.2973148226737976
+INFO:root:
+[Valid][368][UTT][ MSE = 0.3894 | LCC = 0.8686 | SRCC = 0.8722 ]
+INFO:root:Average loss=-0.3006054162979126
+INFO:root:
+[Valid][369][UTT][ MSE = 0.3350 | LCC = 0.8723 | SRCC = 0.8729 ]
+INFO:root:Average loss=-0.3084588646888733
+INFO:root:
+[Valid][370][UTT][ MSE = 0.4125 | LCC = 0.8686 | SRCC = 0.8725 ]
+INFO:root:Average loss=-0.30713504552841187
+INFO:root:
+[Valid][371][UTT][ MSE = 0.4120 | LCC = 0.8680 | SRCC = 0.8706 ]
+INFO:root:Average loss=-0.2956346273422241
+INFO:root:
+[Valid][372][UTT][ MSE = 0.4258 | LCC = 0.8610 | SRCC = 0.8640 ]
+INFO:root:Average loss=-0.2980792224407196
+INFO:root:
+[Valid][373][UTT][ MSE = 0.3722 | LCC = 0.8660 | SRCC = 0.8690 ]
+INFO:root:Average loss=-0.296526700258255
+INFO:root:
+[Valid][374][UTT][ MSE = 0.3716 | LCC = 0.8678 | SRCC = 0.8707 ]
+INFO:root:Average loss=-0.3003562092781067
+INFO:root:
+[Valid][375][UTT][ MSE = 0.3956 | LCC = 0.8615 | SRCC = 0.8649 ]
+INFO:root:Average loss=-0.31126052141189575
+INFO:root:
+[Valid][376][UTT][ MSE = 0.4720 | LCC = 0.8551 | SRCC = 0.8622 ]
+INFO:root:Average loss=-0.30807340145111084
+INFO:root:
+[Valid][377][UTT][ MSE = 0.4252 | LCC = 0.8668 | SRCC = 0.8705 ]
+INFO:root:Average loss=-0.312966525554657
+INFO:root:
+[Valid][378][UTT][ MSE = 0.4976 | LCC = 0.8590 | SRCC = 0.8664 ]
+INFO:root:Average loss=-0.3148171901702881
+INFO:root:
+[Valid][379][UTT][ MSE = 0.4212 | LCC = 0.8672 | SRCC = 0.8691 ]
+INFO:root:Average loss=-0.30155691504478455
+INFO:root:
+[Valid][380][UTT][ MSE = 0.4414 | LCC = 0.8619 | SRCC = 0.8647 ]
+INFO:root:Average loss=-0.30217844247817993
+INFO:root:
+[Valid][381][UTT][ MSE = 0.4539 | LCC = 0.8604 | SRCC = 0.8653 ]
+INFO:root:Average loss=-0.31944912672042847
+INFO:root:
+[Valid][382][UTT][ MSE = 0.4436 | LCC = 0.8591 | SRCC = 0.8633 ]
+INFO:root:Average loss=-0.3099927604198456
+INFO:root:
+[Valid][383][UTT][ MSE = 0.4229 | LCC = 0.8687 | SRCC = 0.8714 ]
+INFO:root:Average loss=-0.3136436939239502
+INFO:root:
+[Valid][384][UTT][ MSE = 0.4122 | LCC = 0.8681 | SRCC = 0.8714 ]
+INFO:root:Average loss=-0.31695353984832764
+INFO:root:
+[Valid][385][UTT][ MSE = 0.3978 | LCC = 0.8694 | SRCC = 0.8726 ]
+INFO:root:Average loss=-0.31768953800201416
+INFO:root:
+[Valid][386][UTT][ MSE = 0.4503 | LCC = 0.8595 | SRCC = 0.8638 ]
+INFO:root:Average loss=-0.3164465129375458
+INFO:root:
+[Valid][387][UTT][ MSE = 0.4333 | LCC = 0.8634 | SRCC = 0.8671 ]
+INFO:root:Average loss=-0.30665165185928345
+INFO:root:
+[Valid][388][UTT][ MSE = 0.4690 | LCC = 0.8615 | SRCC = 0.8685 ]
+INFO:root:Average loss=-0.312620609998703
+INFO:root:
+[Valid][389][UTT][ MSE = 0.4712 | LCC = 0.8617 | SRCC = 0.8670 ]
+INFO:root:Average loss=-0.30706503987312317
+INFO:root:
+[Valid][390][UTT][ MSE = 0.5119 | LCC = 0.8601 | SRCC = 0.8657 ]
+INFO:root:Average loss=-0.3168756365776062
+INFO:root:
+[Valid][391][UTT][ MSE = 0.3749 | LCC = 0.8695 | SRCC = 0.8718 ]
+INFO:root:Average loss=-0.31816744804382324
+INFO:root:
+[Valid][392][UTT][ MSE = 0.3984 | LCC = 0.8665 | SRCC = 0.8691 ]
+INFO:root:Average loss=-0.3127594590187073
+INFO:root:
+[Valid][393][UTT][ MSE = 0.4362 | LCC = 0.8606 | SRCC = 0.8637 ]
+INFO:root:Average loss=-0.325741171836853
+INFO:root:
+[Valid][394][UTT][ MSE = 0.4554 | LCC = 0.8624 | SRCC = 0.8675 ]
+INFO:root:Average loss=-0.31536751985549927
+INFO:root:
+[Valid][395][UTT][ MSE = 0.3718 | LCC = 0.8724 | SRCC = 0.8751 ]
+INFO:root:Average loss=-0.3151443600654602
+INFO:root:
+[Valid][396][UTT][ MSE = 0.4080 | LCC = 0.8655 | SRCC = 0.8703 ]
+INFO:root:Average loss=-0.3127579092979431
+INFO:root:
+[Valid][397][UTT][ MSE = 0.3924 | LCC = 0.8679 | SRCC = 0.8704 ]
+INFO:root:Average loss=-0.3138454258441925
+INFO:root:
+[Valid][398][UTT][ MSE = 0.4199 | LCC = 0.8691 | SRCC = 0.8731 ]
+INFO:root:Average loss=-0.31056907773017883
+INFO:root:
+[Valid][399][UTT][ MSE = 0.5165 | LCC = 0.8516 | SRCC = 0.8589 ]
+INFO:root:Average loss=-0.3138485550880432
+INFO:root:
+[Valid][400][UTT][ MSE = 0.3874 | LCC = 0.8679 | SRCC = 0.8707 ]
+INFO:root:Average loss=-0.3222816586494446
+INFO:root:
+[Valid][401][UTT][ MSE = 0.3758 | LCC = 0.8700 | SRCC = 0.8721 ]
+INFO:root:Average loss=-0.3166142404079437
+INFO:root:
+[Valid][402][UTT][ MSE = 0.4383 | LCC = 0.8615 | SRCC = 0.8660 ]
+INFO:root:Average loss=-0.3054586350917816
+INFO:root:
+[Valid][403][UTT][ MSE = 0.4320 | LCC = 0.8600 | SRCC = 0.8642 ]
+INFO:root:Average loss=-0.3065173327922821
+INFO:root:
+[Valid][404][UTT][ MSE = 0.4970 | LCC = 0.8597 | SRCC = 0.8666 ]
+INFO:root:Average loss=-0.3143397271633148
+INFO:root:
+[Valid][405][UTT][ MSE = 0.4417 | LCC = 0.8678 | SRCC = 0.8717 ]
+INFO:root:Average loss=-0.3181997537612915
+INFO:root:
+[Valid][406][UTT][ MSE = 0.4838 | LCC = 0.8573 | SRCC = 0.8645 ]
+INFO:root:Average loss=-0.3151314854621887
+INFO:root:
+[Valid][407][UTT][ MSE = 0.4973 | LCC = 0.8595 | SRCC = 0.8659 ]
+INFO:root:Average loss=-0.3240857720375061
+INFO:root:
+[Valid][408][UTT][ MSE = 0.4063 | LCC = 0.8658 | SRCC = 0.8701 ]
+INFO:root:Average loss=-0.32452332973480225
+INFO:root:
+[Valid][409][UTT][ MSE = 0.4174 | LCC = 0.8642 | SRCC = 0.8672 ]
+INFO:root:Average loss=-0.31974858045578003
+INFO:root:
+[Valid][410][UTT][ MSE = 0.4710 | LCC = 0.8614 | SRCC = 0.8676 ]
+INFO:root:Average loss=-0.3205006420612335
+INFO:root:
+[Valid][411][UTT][ MSE = 0.4634 | LCC = 0.8601 | SRCC = 0.8639 ]
+INFO:root:Average loss=-0.32561618089675903
+INFO:root:
+[Valid][412][UTT][ MSE = 0.5050 | LCC = 0.8565 | SRCC = 0.8619 ]
+INFO:root:Average loss=-0.31831690669059753
+INFO:root:
+[Valid][413][UTT][ MSE = 0.4323 | LCC = 0.8651 | SRCC = 0.8696 ]
+INFO:root:Average loss=-0.3310645818710327
+INFO:root:
+[Valid][414][UTT][ MSE = 0.4776 | LCC = 0.8567 | SRCC = 0.8641 ]
+INFO:root:Average loss=-0.3280597925186157
+INFO:root:
+[Valid][415][UTT][ MSE = 0.3921 | LCC = 0.8645 | SRCC = 0.8682 ]
+INFO:root:Average loss=-0.3234923183917999
+INFO:root:
+[Valid][416][UTT][ MSE = 0.3832 | LCC = 0.8698 | SRCC = 0.8724 ]
+INFO:root:Average loss=-0.33308324217796326
+INFO:root:
+[Valid][417][UTT][ MSE = 0.4176 | LCC = 0.8610 | SRCC = 0.8664 ]
+INFO:root:Average loss=-0.323761522769928
+INFO:root:
+[Valid][418][UTT][ MSE = 0.3795 | LCC = 0.8709 | SRCC = 0.8740 ]
+INFO:root:Average loss=-0.3168160021305084
+INFO:root:
+[Valid][419][UTT][ MSE = 0.4254 | LCC = 0.8602 | SRCC = 0.8643 ]
+INFO:root:Average loss=-0.3223711848258972
+INFO:root:
+[Valid][420][UTT][ MSE = 0.4536 | LCC = 0.8645 | SRCC = 0.8681 ]
+INFO:root:Average loss=-0.3223190903663635
+INFO:root:
+[Valid][421][UTT][ MSE = 0.3990 | LCC = 0.8681 | SRCC = 0.8715 ]
+INFO:root:Average loss=-0.325113445520401
+INFO:root:
+[Valid][422][UTT][ MSE = 0.4585 | LCC = 0.8627 | SRCC = 0.8690 ]
+INFO:root:Average loss=-0.3273545205593109
+INFO:root:
+[Valid][423][UTT][ MSE = 0.4217 | LCC = 0.8674 | SRCC = 0.8697 ]
+INFO:root:Average loss=-0.3264803886413574
+INFO:root:
+[Valid][424][UTT][ MSE = 0.3771 | LCC = 0.8737 | SRCC = 0.8758 ]
+INFO:root:Average loss=-0.3336670994758606
+INFO:root:
+[Valid][425][UTT][ MSE = 0.4176 | LCC = 0.8702 | SRCC = 0.8753 ]
+INFO:root:Average loss=-0.33628830313682556
+INFO:root:
+[Valid][426][UTT][ MSE = 0.3936 | LCC = 0.8671 | SRCC = 0.8703 ]
+INFO:root:Average loss=-0.3249861001968384
+INFO:root:
+[Valid][427][UTT][ MSE = 0.3908 | LCC = 0.8665 | SRCC = 0.8691 ]
+INFO:root:Average loss=-0.3230801522731781
+INFO:root:
+[Valid][428][UTT][ MSE = 0.4428 | LCC = 0.8663 | SRCC = 0.8706 ]
+INFO:root:Average loss=-0.3284892141819
+INFO:root:
+[Valid][429][UTT][ MSE = 0.4251 | LCC = 0.8661 | SRCC = 0.8705 ]
+INFO:root:Average loss=-0.3298339545726776
+INFO:root:
+[Valid][430][UTT][ MSE = 0.3808 | LCC = 0.8712 | SRCC = 0.8739 ]
+INFO:root:Average loss=-0.333726704120636
+INFO:root:
+[Valid][431][UTT][ MSE = 0.4193 | LCC = 0.8624 | SRCC = 0.8653 ]
+INFO:root:Average loss=-0.33488890528678894
+INFO:root:
+[Valid][432][UTT][ MSE = 0.3254 | LCC = 0.8737 | SRCC = 0.8736 ]
+INFO:root:Average loss=-0.32271862030029297
+INFO:root:
+[Valid][433][UTT][ MSE = 0.4201 | LCC = 0.8700 | SRCC = 0.8732 ]
+INFO:root:Average loss=-0.3217886686325073
+INFO:root:
+[Valid][434][UTT][ MSE = 0.3993 | LCC = 0.8695 | SRCC = 0.8734 ]
+INFO:root:Average loss=-0.32282376289367676
+INFO:root:
+[Valid][435][UTT][ MSE = 0.4393 | LCC = 0.8659 | SRCC = 0.8697 ]
+INFO:root:Average loss=-0.32854706048965454
+INFO:root:
+[Valid][436][UTT][ MSE = 0.3933 | LCC = 0.8681 | SRCC = 0.8716 ]
+INFO:root:Average loss=-0.325821191072464
+INFO:root:
+[Valid][437][UTT][ MSE = 0.4025 | LCC = 0.8673 | SRCC = 0.8708 ]
+INFO:root:Average loss=-0.33829593658447266
+INFO:root:
+[Valid][438][UTT][ MSE = 0.4387 | LCC = 0.8591 | SRCC = 0.8636 ]
+INFO:root:Average loss=-0.3242894411087036
+INFO:root:
+[Valid][439][UTT][ MSE = 0.4199 | LCC = 0.8617 | SRCC = 0.8668 ]
+INFO:root:Average loss=-0.33311718702316284
+INFO:root:
+[Valid][440][UTT][ MSE = 0.4780 | LCC = 0.8647 | SRCC = 0.8702 ]
+INFO:root:Average loss=-0.33016031980514526
+INFO:root:
+[Valid][441][UTT][ MSE = 0.3592 | LCC = 0.8740 | SRCC = 0.8762 ]
+INFO:root:Average loss=-0.3396686911582947
+INFO:root:
+[Valid][442][UTT][ MSE = 0.4521 | LCC = 0.8616 | SRCC = 0.8660 ]
+INFO:root:Average loss=-0.3474033772945404
+INFO:root:
+[Valid][443][UTT][ MSE = 0.4095 | LCC = 0.8669 | SRCC = 0.8710 ]
+INFO:root:Average loss=-0.33427780866622925
+INFO:root:
+[Valid][444][UTT][ MSE = 0.3489 | LCC = 0.8748 | SRCC = 0.8758 ]
+INFO:root:Average loss=-0.3372844159603119
+INFO:root:
+[Valid][445][UTT][ MSE = 0.3481 | LCC = 0.8724 | SRCC = 0.8734 ]
+INFO:root:Average loss=-0.3295784592628479
+INFO:root:
+[Valid][446][UTT][ MSE = 0.4215 | LCC = 0.8658 | SRCC = 0.8710 ]
+INFO:root:Average loss=-0.3289893567562103
+INFO:root:
+[Valid][447][UTT][ MSE = 0.4354 | LCC = 0.8671 | SRCC = 0.8722 ]
+INFO:root:Average loss=-0.342505544424057
+INFO:root:
+[Valid][448][UTT][ MSE = 0.4134 | LCC = 0.8666 | SRCC = 0.8711 ]
+INFO:root:Average loss=-0.33949705958366394
+INFO:root:
+[Valid][449][UTT][ MSE = 0.4522 | LCC = 0.8636 | SRCC = 0.8683 ]
+INFO:root:Average loss=-0.3365614116191864
+INFO:root:
+[Valid][450][UTT][ MSE = 0.3679 | LCC = 0.8684 | SRCC = 0.8721 ]
+INFO:root:Average loss=-0.3344564139842987
+INFO:root:
+[Valid][451][UTT][ MSE = 0.4177 | LCC = 0.8682 | SRCC = 0.8738 ]
+INFO:root:Average loss=-0.3437933027744293
+INFO:root:
+[Valid][452][UTT][ MSE = 0.3772 | LCC = 0.8700 | SRCC = 0.8724 ]
+INFO:root:Average loss=-0.34256988763809204
+INFO:root:
+[Valid][453][UTT][ MSE = 0.3775 | LCC = 0.8722 | SRCC = 0.8742 ]
+INFO:root:Average loss=-0.3447428345680237
+INFO:root:
+[Valid][454][UTT][ MSE = 0.4516 | LCC = 0.8620 | SRCC = 0.8693 ]
+INFO:root:Average loss=-0.3375800549983978
+INFO:root:
+[Valid][455][UTT][ MSE = 0.4804 | LCC = 0.8663 | SRCC = 0.8715 ]
+INFO:root:Average loss=-0.34531858563423157
+INFO:root:
+[Valid][456][UTT][ MSE = 0.3873 | LCC = 0.8700 | SRCC = 0.8727 ]
+INFO:root:Average loss=-0.34723788499832153
+INFO:root:
+[Valid][457][UTT][ MSE = 0.4614 | LCC = 0.8658 | SRCC = 0.8716 ]
+INFO:root:Average loss=-0.3312723636627197
+INFO:root:
+[Valid][458][UTT][ MSE = 0.3915 | LCC = 0.8693 | SRCC = 0.8718 ]
+INFO:root:Average loss=-0.34250015020370483
+INFO:root:
+[Valid][459][UTT][ MSE = 0.4301 | LCC = 0.8624 | SRCC = 0.8674 ]
+INFO:root:Average loss=-0.34672993421554565
+INFO:root:
+[Valid][460][UTT][ MSE = 0.4078 | LCC = 0.8648 | SRCC = 0.8681 ]
+INFO:root:Average loss=-0.34039220213890076
+INFO:root:
+[Valid][461][UTT][ MSE = 0.4511 | LCC = 0.8647 | SRCC = 0.8702 ]
+INFO:root:Average loss=-0.3422728478908539
+INFO:root:
+[Valid][462][UTT][ MSE = 0.4957 | LCC = 0.8591 | SRCC = 0.8668 ]
+INFO:root:Average loss=-0.3421596586704254
+INFO:root:
+[Valid][463][UTT][ MSE = 0.4491 | LCC = 0.8600 | SRCC = 0.8676 ]
+INFO:root:Average loss=-0.339447021484375
+INFO:root:
+[Valid][464][UTT][ MSE = 0.3642 | LCC = 0.8721 | SRCC = 0.8731 ]
+INFO:root:Average loss=-0.3527742028236389
+INFO:root:
+[Valid][465][UTT][ MSE = 0.3725 | LCC = 0.8715 | SRCC = 0.8741 ]
+INFO:root:Average loss=-0.3361996114253998
+INFO:root:
+[Valid][466][UTT][ MSE = 0.4205 | LCC = 0.8583 | SRCC = 0.8618 ]
+INFO:root:Average loss=-0.3476215898990631
+INFO:root:
+[Valid][467][UTT][ MSE = 0.4843 | LCC = 0.8572 | SRCC = 0.8617 ]
+INFO:root:Average loss=-0.3440695106983185
+INFO:root:
+[Valid][468][UTT][ MSE = 0.4279 | LCC = 0.8674 | SRCC = 0.8721 ]
+INFO:root:Average loss=-0.34723973274230957
+INFO:root:
+[Valid][469][UTT][ MSE = 0.5078 | LCC = 0.8564 | SRCC = 0.8647 ]
+INFO:root:Average loss=-0.34178924560546875
+INFO:root:
+[Valid][470][UTT][ MSE = 0.3792 | LCC = 0.8674 | SRCC = 0.8711 ]
+INFO:root:Average loss=-0.3442867696285248
+INFO:root:
+[Valid][471][UTT][ MSE = 0.4139 | LCC = 0.8648 | SRCC = 0.8687 ]
+INFO:root:Average loss=-0.332940936088562
+INFO:root:
+[Valid][472][UTT][ MSE = 0.3420 | LCC = 0.8732 | SRCC = 0.8741 ]
+INFO:root:Average loss=-0.35122814774513245
+INFO:root:
+[Valid][473][UTT][ MSE = 0.5170 | LCC = 0.8579 | SRCC = 0.8653 ]
+INFO:root:Average loss=-0.34697386622428894
+INFO:root:
+[Valid][474][UTT][ MSE = 0.4673 | LCC = 0.8661 | SRCC = 0.8714 ]
+INFO:root:Average loss=-0.3422839045524597
+INFO:root:
+[Valid][475][UTT][ MSE = 0.3869 | LCC = 0.8698 | SRCC = 0.8727 ]
+INFO:root:Average loss=-0.35013917088508606
+INFO:root:
+[Valid][476][UTT][ MSE = 0.3540 | LCC = 0.8691 | SRCC = 0.8711 ]
+INFO:root:Average loss=-0.33347833156585693
+INFO:root:
+[Valid][477][UTT][ MSE = 0.3902 | LCC = 0.8681 | SRCC = 0.8722 ]
+INFO:root:Average loss=-0.34515637159347534
+INFO:root:
+[Valid][478][UTT][ MSE = 0.4696 | LCC = 0.8599 | SRCC = 0.8662 ]
+INFO:root:Average loss=-0.35666683316230774
+INFO:root:
+[Valid][479][UTT][ MSE = 0.3724 | LCC = 0.8727 | SRCC = 0.8760 ]
+INFO:root:Average loss=-0.34867656230926514
+INFO:root:
+[Valid][480][UTT][ MSE = 0.3358 | LCC = 0.8737 | SRCC = 0.8761 ]
+INFO:root:Average loss=-0.3566112220287323
+INFO:root:
+[Valid][481][UTT][ MSE = 0.4156 | LCC = 0.8682 | SRCC = 0.8719 ]
+INFO:root:Average loss=-0.3542322814464569
+INFO:root:
+[Valid][482][UTT][ MSE = 0.3892 | LCC = 0.8703 | SRCC = 0.8717 ]
+INFO:root:Average loss=-0.3431587815284729
+INFO:root:
+[Valid][483][UTT][ MSE = 0.4988 | LCC = 0.8547 | SRCC = 0.8608 ]
+INFO:root:Average loss=-0.35454174876213074
+INFO:root:
+[Valid][484][UTT][ MSE = 0.4639 | LCC = 0.8646 | SRCC = 0.8692 ]
+INFO:root:Average loss=-0.35349875688552856
+INFO:root:
+[Valid][485][UTT][ MSE = 0.4501 | LCC = 0.8661 | SRCC = 0.8711 ]
+INFO:root:Average loss=-0.3521203398704529
+INFO:root:
+[Valid][486][UTT][ MSE = 0.4371 | LCC = 0.8589 | SRCC = 0.8644 ]
+INFO:root:Average loss=-0.35899823904037476
+INFO:root:
+[Valid][487][UTT][ MSE = 0.3802 | LCC = 0.8708 | SRCC = 0.8717 ]
+INFO:root:Average loss=-0.3411742150783539
+INFO:root:
+[Valid][488][UTT][ MSE = 0.5199 | LCC = 0.8569 | SRCC = 0.8631 ]
+INFO:root:Average loss=-0.3553551733493805
+INFO:root:
+[Valid][489][UTT][ MSE = 0.3981 | LCC = 0.8726 | SRCC = 0.8762 ]
+INFO:root:Average loss=-0.363061785697937
+INFO:root:
+[Valid][490][UTT][ MSE = 0.3460 | LCC = 0.8701 | SRCC = 0.8722 ]
+INFO:root:Average loss=-0.368225634098053
+INFO:root:
+[Valid][491][UTT][ MSE = 0.4301 | LCC = 0.8643 | SRCC = 0.8676 ]
+INFO:root:Average loss=-0.3546972870826721
+INFO:root:
+[Valid][492][UTT][ MSE = 0.4031 | LCC = 0.8672 | SRCC = 0.8707 ]
+INFO:root:Average loss=-0.35559698939323425
+INFO:root:
+[Valid][493][UTT][ MSE = 0.3691 | LCC = 0.8743 | SRCC = 0.8765 ]
+INFO:root:Average loss=-0.3619954288005829
+INFO:root:
+[Valid][494][UTT][ MSE = 0.4658 | LCC = 0.8620 | SRCC = 0.8681 ]
+INFO:root:Average loss=-0.36168625950813293
+INFO:root:
+[Valid][495][UTT][ MSE = 0.4823 | LCC = 0.8612 | SRCC = 0.8671 ]
+INFO:root:Average loss=-0.3524382412433624
+INFO:root:
+[Valid][496][UTT][ MSE = 0.3735 | LCC = 0.8716 | SRCC = 0.8749 ]
+INFO:root:Average loss=-0.35808834433555603
+INFO:root:
+[Valid][497][UTT][ MSE = 0.4075 | LCC = 0.8706 | SRCC = 0.8749 ]
+INFO:root:Average loss=-0.3528144061565399
+INFO:root:
+[Valid][498][UTT][ MSE = 0.4163 | LCC = 0.8687 | SRCC = 0.8741 ]
+INFO:root:Average loss=-0.3471752405166626
+INFO:root:
+[Valid][499][UTT][ MSE = 0.3404 | LCC = 0.8732 | SRCC = 0.8746 ]
+INFO:root:Average loss=-0.3641870617866516
+INFO:root:
+[Valid][500][UTT][ MSE = 0.3702 | LCC = 0.8722 | SRCC = 0.8754 ]
+INFO:root:
+[Test][501][UTT][ MSE = 0.3474 | LCC = 0.8708 | SRCC = 0.8708 ]
