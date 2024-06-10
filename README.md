@@ -25,12 +25,14 @@ print(f'{mean=}, {variance=}')
 ```
 ## Dataset preparation
 [VCC2018](https://github.com/unilight/LDNet/tree/main/data).
+
 [BVCC](https://zenodo.org/records/6572573#.Yphw5y8RprQ).
+
 [NISQA](https://github.com/gabrielmittag/NISQA/wiki/NISQA-Corpus).
 
 ## Training
-The framework is Gin configurable, hence specifying model and dataset is done with a Gin config. See `configs/*.gin` for examples.
- 
+The framework is Gin configurable; specifying model and dataset is done with a Gin config. See examples in `configs/*.gin`.
+
 Example launch:
 ```
 python train.py --gin_path "configs/vcc2018.gin" --save_path "runs/VCC2018"
