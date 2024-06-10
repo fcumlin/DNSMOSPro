@@ -1,4 +1,4 @@
-# Dnsmos Pro
+# DNSMOS Pro
 
 This is the official implementation of "DNSMOS Pro: A Reduced-Size DNN for Probabilistic MOS of Speech". DNSMOS Pro is a model that takes as input a speech clip, and outputs the mean opinion score (MOS).
 
