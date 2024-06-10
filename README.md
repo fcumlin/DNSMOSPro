@@ -14,12 +14,14 @@ import torch
 
 import utils  # Python file containing the STFT.
 
-model = torch.jit.load('runs/NISQA/model_best.pt')
+model = torch.jit.load('runs/test_nisqa/model_best.pt', map_location=torch.device('cpu'))
 samples = np.ones(160_000)
-spec = utils.stft(samples)  # Defaults therein correspond to training values.
-prediction = model(spec[None, None, ...])
+spec = torch.FloatTensor(utils.stft(samples))  # Defaults in `utils.stft` correspond to training values.
+with torch.no_grad():
+    prediction = model(spec[None, None, ...])
 mean = prediction[:, 0]
 variance = prediction[:, 1]
+print(f'{mean=}, {variance=}')
 ```
 ## Dataset preparation
 [VCC2018](https://github.com/unilight/LDNet/tree/main/data).
