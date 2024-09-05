@@ -1,6 +1,6 @@
 # DNSMOS Pro
 
-This is the official implementation of "DNSMOS Pro: A Reduced-Size DNN for Probabilistic MOS of Speech", (paper)[https://www.isca-archive.org/interspeech_2024/cumlin24_interspeech.html]. DNSMOS Pro is a model that takes as input a speech clip, and outputs the mean opinion score (MOS).
+This is the official implementation of "DNSMOS Pro: A Reduced-Size DNN for Probabilistic MOS of Speech", [paper](https://www.isca-archive.org/interspeech_2024/cumlin24_interspeech.html). DNSMOS Pro is a model that takes as input a speech clip, and outputs the mean opinion score (MOS).
 
 Authors: Fredrik Cumlin, Xinyu Liang
 Emails: fcumlin@gmail.com, hopeliang990504@gmail.com
