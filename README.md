@@ -2,11 +2,12 @@
 
 This is the official implementation of ["DNSMOS Pro: A Reduced-Size DNN for Probabilistic MOS of Speech"](https://www.isca-archive.org/interspeech_2024/cumlin24_interspeech.html). DNSMOS Pro is a model that takes as input a speech clip, and outputs a Gaussian mean opinion score (MOS) distribution.
 
-Authors: Fredrik Cumlin, Xinyu Liang < br / >Emails: fcumlin@gmail.com, hopeliang990504@gmail.com
+Authors: Fredrik Cumlin, Xinyu Liang  
+Emails: fcumlin@gmail.com, hopeliang990504@gmail.com
 
 ## Inference
 
-There are three pretrained models ready to be used. For inference, one can do the following (all paths are relative to this directory):
+There are three pretrained DNSMOS Pro ready to be used, trained on three datasets respectively. For inference, one can do the following (all paths are relative to this directory):
 ```
 import numpy as np
 import torch
@@ -23,7 +24,7 @@ mean = prediction[:, 0]
 variance = prediction[:, 1]
 print(f'{mean=}, {variance=}')
 ```
-The mean can be used as a scalar prediction of MOS.
+The mean can be used as a scalar prediction of MOS. Recommended input duration is 10 s, and should be of 16 kHz sample rate. 
 ## Dataset preparation
 [VCC2018](https://github.com/unilight/LDNet/tree/main/data)
 
